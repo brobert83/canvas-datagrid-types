@@ -1,0 +1,1440 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 9]><html class="lte-ie8 govuk-template" lang="en"><![endif]--><!--[if gt IE 8]><!--><html class="govuk-template" lang="en">
+<!--<![endif]-->
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta property="og:description" content="">
+<meta property="og:title" content="A guide to air conditioning inspections in buildings">
+<meta property="og:url" content="https://www.gov.uk/government/publications/air-conditioning-inspections-for-buildings/a-guide-to-air-conditioning-inspections">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="GOV.UK">
+<meta name="twitter:card" content="summary">
+<meta name="govuk:analytics:organisations" content="&lt;D4&gt;&lt;D1342&gt;">
+<meta name="govuk:primary-publishing-organisation" content="Department for Levelling Up, Housing and Communities ">
+<meta name="govuk:public-updated-at" content="2020-12-21T16:29:29.000Z">
+<meta name="govuk:updated-at" content="2023-06-21T14:58:03.318Z">
+<meta name="govuk:first-published-at" content="2020-12-28T00:15:03.000Z">
+<meta name="govuk:content-id" content="b0db6648-6911-41e6-af56-0bea6768b4b7">
+<meta name="govuk:schema-name" content="html_publication">
+<meta name="govuk:rendering-app" content="government-frontend">
+<meta name="govuk:publishing-app" content="whitehall">
+<meta name="govuk:format" content="html_publication">
+    <meta charset="utf-8">
+    <title lang="en">
+      A guide to air conditioning inspections in buildings - GOV.UK
+  </title>
+
+    <script src="/assets/static/govuk_publishing_components/vendor/lux/lux-measurer-505eef3e243b1d08ea7c4b945ebe1ae146d896db61366e415b30cc1bcd84cbdc.js" async="async"></script>
+    <script src="/assets/static/govuk_publishing_components/rum-loader-c53469dcb841d7b228c914a2e8bdcf3b831a578adf7d4f21cf9da5b85df7381e.js" async="async" data-lux-reporter-script="/assets/static/govuk_publishing_components/vendor/lux/lux-reporter-29a6dc1039855c9e3abd996bc76b0a27aa93064a6d6e146372ea92331a766145.js"></script>
+
+    <meta name="govuk:components_gem_version" content="35.7.0">
+    <script src="/assets/static/govuk_publishing_components/load-analytics-ba899e9ea63d217a7f89bea00629ce37bdb96c8d489245f7f71a442d98fb1072.js"></script>
+
+    
+
+    <link rel="stylesheet" href="/assets/static/application-074d09574e892031bd02da0efa963dfacbe640de503a1c1af0716e4bf8a61e7d.css" media="all">
+    <!--[if lt IE 9]><script src="/assets/static/govuk_publishing_components/ie-94963d6661190bc897905bbbe222a31c7ca0aff3a3b9f808ba15d4cd90780a9b.js" crossorigin="anonymous" integrity="sha256-pFJFRKU9V6fiWbS7lmucMlV8mMkgt35S0JMEZCtoQBo="></script><![endif]-->
+    <link rel="shortcut icon" href="/assets/static/favicon-9ed7849c462c53aa2cdf1690eb257e801ecbf5696d1d0928868c5b032b4adb36.ico" type="image/x-icon">
+    <link rel="mask-icon" href="/assets/static/govuk-mask-icon-a409a4db4a5e72c99ae3916653710064c43eb4be35821f79c07c5156e7dc5808.svg" color="#0b0c0c">
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/static/govuk-apple-touch-icon-180x180-026deaa34fa328ae5f1f519a37dbd15e6555c5086e1ba83986cd0827a7209902.png">
+    <link rel="apple-touch-icon" sizes="167x167" href="/assets/static/govuk-apple-touch-icon-167x167-a44a5b317f51a61950697fbe6c61ffe3b5acdd89de60ef70429daa32881d5279.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/assets/static/govuk-apple-touch-icon-152x152-828a839e5c83de19f98014eef54cec77aa11063a23ce321970d6f9310eeabb6c.png">
+    <link rel="apple-touch-icon" href="/assets/static/govuk-apple-touch-icon-5f801db05920bd1eb2b27a7a90328599bb16b6344c3213795af0f20d3ca179b0.png">
+
+    <meta name="theme-color" content="#0b0c0c">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <meta property="og:image" content="/assets/static/govuk-opengraph-image-dade2dad5775023b0568381c4c074b86318194edb36d3d68df721eea7deeac4b.png">
+
+    
+  <link rel="stylesheet" href="/assets/government-frontend/application-a4f6d631ba21c73ea52b03a432bcf7e16dfbd376598c6e1502f8b8d01c0fe14f.css" media="all">
+<link rel="canonical" href="https://www.gov.uk/government/publications/air-conditioning-inspections-for-buildings/a-guide-to-air-conditioning-inspections">
+<link rel="stylesheet" href="/assets/government-frontend/views/_html-publication-7a77f2c764d32305c3cb29f54af8ead1d63eadfed11cb15262bacd44278deaf3.css">
+<link rel="stylesheet" href="/assets/government-frontend/govuk_publishing_components/components/_organisation-logo-0bc74899d28b5572771c0d11dcf69f94655c780a2b4f2a9bc746e65f94bc7be6.css">
+<link rel="stylesheet" href="/assets/government-frontend/govuk_publishing_components/components/_inverse-header-edec4db0f5f9cba29d9964a87ac9e1ce9fcecdaacf5e4e3e3273249ef336c3c2.css">
+<link rel="stylesheet" href="/assets/government-frontend/govuk_publishing_components/components/_devolved-nations-ac516a77c49b04da81aa18f3e25e38b5be49af315bf4dfa2957d06c9b88e5f1c.css">
+<link rel="stylesheet" href="/assets/government-frontend/govuk_publishing_components/components/_contents-list-21a32cb0f59307b4c3218bcf1c60836b597b9396f355a94dff073ba8e56b4de0.css">
+<link rel="stylesheet" href="/assets/government-frontend/govuk_publishing_components/components/_print-link-1d26a2ff060d746129d8ea59676d6b1207d86674f64aa958cf6fa621201048e6.css">
+<link rel="stylesheet" href="/assets/government-frontend/govuk_publishing_components/components/_govspeak-html-publication-7104e192030b296f74af62ec50b1317c427718a8a39b03c2982822affa8a46e9.css">
+<link rel="stylesheet" href="/assets/government-frontend/govuk_publishing_components/components/_govspeak-3ec3f101288c021e9e96804264c8c9f64544391a08e4a4217c1f8033ff5b18c3.css">
+<link rel="stylesheet" href="/assets/government-frontend/components/_back-to-top-8d10a933dd34f1162faf988b7cf81c36c44ba29948683b0cdb2b654df304c32c.css">
+<meta name="govuk:rendering-application" content="government-frontend">
+</head>
+  <body class="gem-c-layout-for-public govuk-template__body">
+    <script nonce="xyntenw/I3hkYuXkuqp0hg==">
+//<![CDATA[
+      document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');
+
+//]]>
+</script>    <a class="gem-c-skip-link govuk-skip-link govuk-!-display-none-print" data-module="govuk-skip-link" href="#content">Skip to main content</a>
+
+
+    
+<div id="global-cookie-message" class="gem-c-cookie-banner govuk-clearfix govuk-cookie-banner js-banner-wrapper" data-module="cookie-banner" data-nosnippet role="region" aria-label="Cookies on GOV.UK">
+  <div class="govuk-cookie-banner__message govuk-width-container">
+    <div class="govuk-grid-row">
+      <div class="govuk-grid-column-two-thirds">
+        <h2 class="govuk-cookie-banner__heading govuk-heading-m">Cookies on GOV.UK</h2>
+        <div tabindex="-1" class="govuk-cookie-banner__content gem-c-cookie-banner__confirmation">
+          <span class="gem-c-cookie-banner__content"><p class="govuk-body">We use some essential cookies to make this website work.</p>
+<p class="govuk-body">We’d like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services.</p>
+<p class="govuk-body">We also use cookies set by other sites to help us deliver content from their services.</p></span>
+          <p class="gem-c-cookie-banner__confirmation-message--accepted govuk-body" hidden>You have accepted additional cookies. <span class="gem-c-cookie-banner__confirmation-message">You can <a class="govuk-link" data-module="gem-track-click" data-track-category="cookieBanner" data-track-action="Cookie banner settings clicked from confirmation" href="/help/cookies">change your cookie settings</a> at any time.</span></p>
+          <p class="gem-c-cookie-banner__confirmation-message--rejected govuk-body" hidden>You have rejected additional cookies. <span class="gem-c-cookie-banner__confirmation-message">You can <a class="govuk-link" data-module="gem-track-click" data-track-category="cookieBanner" data-track-action="Cookie banner settings clicked from confirmation" href="/help/cookies">change your cookie settings</a> at any time.</span></p>
+        </div>
+      </div>
+    </div>
+    <div class="js-confirmation-buttons govuk-button-group">
+        
+
+
+  <button class="gem-c-button govuk-button" type="submit" data-module="gem-track-click" data-accept-cookies="true" data-track-category="cookieBanner" data-track-action="Cookie banner accepted" data-cookie-types="all">Accept additional cookies</button>
+
+
+        
+
+
+  <button class="gem-c-button govuk-button" type="submit" data-module="gem-track-click" data-reject-cookies="true" data-track-category="cookieBanner" data-track-action="Cookie banner rejected">Reject additional cookies</button>
+
+
+        <a class="govuk-link" href="/help/cookies">View cookies</a>
+    </div>
+    <div hidden class="js-hide-button govuk-button-group">
+      <button class="gem-c-cookie-banner__hide-button govuk-button" data-hide-cookie-banner="true" data-module="gem-track-click" data-track-category="cookieBanner" data-track-action="Hide cookie banner">Hide this message</button>
+    </div>
+  </div>
+</div>
+
+
+        <header role="banner" class="gem-c-layout-super-navigation-header" data-module="gem-track-click ga4-event-tracker ga4-link-tracker" data-track-links-only data-ga4-expandable>
+  <div class="gem-c-layout-super-navigation-header__container govuk-clearfix">
+    <div class="govuk-width-container">
+      <div class="gem-c-layout-super-navigation-header__header-logo">
+        <a class="govuk-header__link govuk-header__link--homepage" data-track-action="logoLink" data-track-category="headerClicked" data-track-label="https://www.gov.uk" data-track-dimension="GOV.UK" data-track-dimension-index="29" href="https://www.gov.uk" id="logo" title="Go to the GOV.UK homepage" data-ga4-link='{"event_name":"navigation","type":"header menu bar","external":"false","text":"GOV.UK","section":"Logo","index":{"index_link":1,"index_section":0,"index_section_count":2},"index_total":1}'>
+          <span class="govuk-header__logotype">
+            <!--[if gt IE 8]><!-->
+            <svg aria-hidden="true" class="govuk-header__logotype-crown gem-c-layout-super-navigation-header__logotype-crown" focusable="false" height="30" viewbox="0 0 132 97" width="36" xmlns="http://www.w3.org/2000/svg">
+              <path d="M25 30.2c3.5 1.5 7.7-.2 9.1-3.7 1.5-3.6-.2-7.8-3.9-9.2-3.6-1.4-7.6.3-9.1 3.9-1.4 3.5.3 7.5 3.9 9zM9 39.5c3.6 1.5 7.8-.2 9.2-3.7 1.5-3.6-.2-7.8-3.9-9.1-3.6-1.5-7.6.2-9.1 3.8-1.4 3.5.3 7.5 3.8 9zM4.4 57.2c3.5 1.5 7.7-.2 9.1-3.8 1.5-3.6-.2-7.7-3.9-9.1-3.5-1.5-7.6.3-9.1 3.8-1.4 3.5.3 7.6 3.9 9.1zm38.3-21.4c3.5 1.5 7.7-.2 9.1-3.8 1.5-3.6-.2-7.7-3.9-9.1-3.6-1.5-7.6.3-9.1 3.8-1.3 3.6.4 7.7 3.9 9.1zm64.4-5.6c-3.6 1.5-7.8-.2-9.1-3.7-1.5-3.6.2-7.8 3.8-9.2 3.6-1.4 7.7.3 9.2 3.9 1.3 3.5-.4 7.5-3.9 9zm15.9 9.3c-3.6 1.5-7.7-.2-9.1-3.7-1.5-3.6.2-7.8 3.7-9.1 3.6-1.5 7.7.2 9.2 3.8 1.5 3.5-.3 7.5-3.8 9zm4.7 17.7c-3.6 1.5-7.8-.2-9.2-3.8-1.5-3.6.2-7.7 3.9-9.1 3.6-1.5 7.7.3 9.2 3.8 1.3 3.5-.4 7.6-3.9 9.1zM89.3 35.8c-3.6 1.5-7.8-.2-9.2-3.8-1.4-3.6.2-7.7 3.9-9.1 3.6-1.5 7.7.3 9.2 3.8 1.4 3.6-.3 7.7-3.9 9.1zM69.7 17.7l8.9 4.7V9.3l-8.9 2.8c-.2-.3-.5-.6-.9-.9L72.4 0H59.6l3.5 11.2c-.3.3-.6.5-.9.9l-8.8-2.8v13.1l8.8-4.7c.3.3.6.7.9.9l-5 15.4v.1c-.2.8-.4 1.6-.4 2.4 0 4.1 3.1 7.5 7 8.1h.2c.3 0 .7.1 1 .1.4 0 .7 0 1-.1h.2c4-.6 7.1-4.1 7.1-8.1 0-.8-.1-1.7-.4-2.4V34l-5.1-15.4c.4-.2.7-.6 1-.9zM66 92.8c16.9 0 32.8 1.1 47.1 3.2 4-16.9 8.9-26.7 14-33.5l-9.6-3.4c1 4.9 1.1 7.2 0 10.2-1.5-1.4-3-4.3-4.2-8.7L108.6 76c2.8-2 5-3.2 7.5-3.3-4.4 9.4-10 11.9-13.6 11.2-4.3-.8-6.3-4.6-5.6-7.9 1-4.7 5.7-5.9 8-.5 4.3-8.7-3-11.4-7.6-8.8 7.1-7.2 7.9-13.5 2.1-21.1-8 6.1-8.1 12.3-4.5 20.8-4.7-5.4-12.1-2.5-9.5 6.2 3.4-5.2 7.9-2 7.2 3.1-.6 4.3-6.4 7.8-13.5 7.2-10.3-.9-10.9-8-11.2-13.8 2.5-.5 7.1 1.8 11 7.3L80.2 60c-4.1 4.4-8 5.3-12.3 5.4 1.4-4.4 8-11.6 8-11.6H55.5s6.4 7.2 7.9 11.6c-4.2-.1-8-1-12.3-5.4l1.4 16.4c3.9-5.5 8.5-7.7 10.9-7.3-.3 5.8-.9 12.8-11.1 13.8-7.2.6-12.9-2.9-13.5-7.2-.7-5 3.8-8.3 7.1-3.1 2.7-8.7-4.6-11.6-9.4-6.2 3.7-8.5 3.6-14.7-4.6-20.8-5.8 7.6-5 13.9 2.2 21.1-4.7-2.6-11.9.1-7.7 8.8 2.3-5.5 7.1-4.2 8.1.5.7 3.3-1.3 7.1-5.7 7.9-3.5.7-9-1.8-13.5-11.2 2.5.1 4.7 1.3 7.5 3.3l-4.7-15.4c-1.2 4.4-2.7 7.2-4.3 8.7-1.1-3-.9-5.3 0-10.2l-9.5 3.4c5 6.9 9.9 16.7 14 33.5 14.8-2.1 30.8-3.2 47.7-3.2z" fill="currentColor" fill-rule="evenodd">
+              </path>
+            </svg>
+            <!--<![endif]-->
+            <!--[if IE 8]>
+            <img src="/assets/static/govuk-logotype-crown-66ad9a9b8fca42cf0ba18979eef6afc2e8056d5f158ca9b27ce9afdf852aae87.png" alt="" class="govuk-header__logotype-crown-fallback-image" width="36" height="32">
+            <![endif]-->
+            <span class="govuk-header__logotype-text">
+              GOV.UK
+            </span>
+          </span>
+        </a>
+      </div>
+    </div>
+    <nav aria-labelledby="super-navigation-menu-heading" class="gem-c-layout-super-navigation-header__content" data-module="super-navigation-mega-menu">
+      <h2 id="super-navigation-menu-heading" class="govuk-visually-hidden">
+        Navigation menu
+      </h2>
+
+
+      <div class="govuk-width-container gem-c-layout-super-navigation-header__button-width-container">
+        <div class="gem-c-layout-super-navigation-header__button-container">
+          <div class="gem-c-layout-super-navigation-header__navigation-item">
+            <a class="gem-c-layout-super-navigation-header__navigation-item-link" data-track-action="menuLink" data-track-category="headerClicked" data-track-label="/browse" data-track-dimension="Menu" data-track-dimension-index="29" href="/browse">
+              <span class="gem-c-layout-super-navigation-header__navigation-item-link-inner">
+                Menu
+              </span>
+</a>
+            <button aria-controls="super-navigation-menu-d801a4b6" aria-expanded="false" aria-label="Show navigation menu" class="gem-c-layout-super-navigation-header__navigation-top-toggle-button" data-text-for-hide="Hide navigation menu" data-text-for-show="Show navigation menu" data-toggle-desktop-group="top" data-toggle-mobile-group="top" data-tracking-key="menu" data-ga4-event='{"event_name":"select_content","type":"header menu bar","text":"Menu","index":{"index_section":1,"index_section_count":2},"section":"Menu"}' hidden="hidden" id="super-navigation-menu-d801a4b6-toggle" type="button">
+              <span class="gem-c-layout-super-navigation-header__navigation-top-toggle-button-inner">Menu</span>
+</button>          </div>
+
+          <div class="gem-c-layout-super-navigation-header__search-item">
+            <button aria-controls="super-search-menu" aria-expanded="true" aria-label="Hide search menu" class="gem-c-layout-super-navigation-header__search-toggle-button" data-text-for-hide="Hide search menu" data-text-for-show="Show search menu" data-toggle-mobile-group="top" data-toggle-desktop-group="top" data-tracking-key="search" hidden id="super-search-menu-toggle" type="button" data-ga4-event='{"event_name":"select_content","type":"header menu bar","text":"Search","index":{"index_section":2,"index_section_count":2},"section":"Search"}'>
+              <span class="govuk-visually-hidden">
+                Search GOV.UK
+              </span>
+              
+<svg class="gem-c-layout-super-navigation-header__search-toggle-button-link-icon" width="27" height="27" viewbox="0 0 27 27" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false">
+  <circle cx="12.0161" cy="11.0161" r="8.51613" stroke="currentColor" stroke-width="3"></circle>
+  <line x1="17.8668" y1="17.3587" x2="26.4475" y2="25.9393" stroke="currentColor" stroke-width="3"></line>
+</svg>
+              <span aria-hidden="true" class="gem-c-layout-super-navigation-header__navigation-top-toggle-close-icon" focusable="false">
+                ×
+              </span>
+            </button>
+
+            <a class="gem-c-layout-super-navigation-header__search-item-link" href="/search">
+              <span class="govuk-visually-hidden">
+                Search GOV.UK
+              </span>
+              
+<svg class="gem-c-layout-super-navigation-header__search-item-link-icon" width="27" height="27" viewbox="0 0 27 27" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false">
+  <circle cx="12.0161" cy="11.0161" r="8.51613" stroke="currentColor" stroke-width="3"></circle>
+  <line x1="17.8668" y1="17.3587" x2="26.4475" y2="25.9393" stroke="currentColor" stroke-width="3"></line>
+</svg>
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <div id="super-navigation-menu-d801a4b6" hidden class="gem-c-layout-super-navigation-header__navigation-dropdown-menu">
+        <div class="govuk-width-container">
+          <div class="govuk-grid-row gem-c-layout-super-navigation-header__navigation-items">
+
+
+              <div class="govuk-grid-column-two-thirds-from-desktop gem-c-layout-super-navigation-header__column--topics">
+                <h3 class="govuk-heading-m gem-c-layout-super-navigation-header__column-header">
+                  Topics
+                </h3>
+                <ul class="gem-c-layout-super-navigation-header__navigation-second-items gem-c-layout-super-navigation-header__navigation-second-items--topics">
+                      <li class="gem-c-layout-super-navigation-header__dropdown-list-item">
+                        <a class="govuk-link gem-c-layout-super-navigation-header__navigation-second-item-link" data-track-action="topicsLink" data-track-category="headerClicked" data-track-label="/browse/benefits" data-track-dimension="Benefits" data-track-dimension-index="29" data-ga4-link='{"event_name":"navigation","type":"header menu bar","index":{"index_section":1,"index_link":1,"index_section_count":4},"index_total":16,"section":"Topics"}' href="/browse/benefits">Benefits</a>
+                        
+                      </li>
+                      <li class="gem-c-layout-super-navigation-header__dropdown-list-item">
+                        <a class="govuk-link gem-c-layout-super-navigation-header__navigation-second-item-link" data-track-action="topicsLink" data-track-category="headerClicked" data-track-label="/browse/births-deaths-marriages" data-track-dimension="Births, death, marriages and care" data-track-dimension-index="29" data-ga4-link='{"event_name":"navigation","type":"header menu bar","index":{"index_section":1,"index_link":2,"index_section_count":4},"index_total":16,"section":"Topics"}' href="/browse/births-deaths-marriages">Births, death, marriages and care</a>
+                        
+                      </li>
+                      <li class="gem-c-layout-super-navigation-header__dropdown-list-item">
+                        <a class="govuk-link gem-c-layout-super-navigation-header__navigation-second-item-link" data-track-action="topicsLink" data-track-category="headerClicked" data-track-label="/browse/business" data-track-dimension="Business and self-employed" data-track-dimension-index="29" data-ga4-link='{"event_name":"navigation","type":"header menu bar","index":{"index_section":1,"index_link":3,"index_section_count":4},"index_total":16,"section":"Topics"}' href="/browse/business">Business and self-employed</a>
+                        
+                      </li>
+                      <li class="gem-c-layout-super-navigation-header__dropdown-list-item">
+                        <a class="govuk-link gem-c-layout-super-navigation-header__navigation-second-item-link" data-track-action="topicsLink" data-track-category="headerClicked" data-track-label="/browse/childcare-parenting" data-track-dimension="Childcare and parenting" data-track-dimension-index="29" data-ga4-link='{"event_name":"navigation","type":"header menu bar","index":{"index_section":1,"index_link":4,"index_section_count":4},"index_total":16,"section":"Topics"}' href="/browse/childcare-parenting">Childcare and parenting</a>
+                        
+                      </li>
+                      <li class="gem-c-layout-super-navigation-header__dropdown-list-item">
+                        <a class="govuk-link gem-c-layout-super-navigation-header__navigation-second-item-link" data-track-action="topicsLink" data-track-category="headerClicked" data-track-label="/browse/citizenship" data-track-dimension="Citizenship and living in the UK" data-track-dimension-index="29" data-ga4-link='{"event_name":"navigation","type":"header menu bar","index":{"index_section":1,"index_link":5,"index_section_count":4},"index_total":16,"section":"Topics"}' href="/browse/citizenship">Citizenship and living in the UK</a>
+                        
+                      </li>
+                      <li class="gem-c-layout-super-navigation-header__dropdown-list-item">
+                        <a class="govuk-link gem-c-layout-super-navigation-header__navigation-second-item-link" data-track-action="topicsLink" data-track-category="headerClicked" data-track-label="/browse/justice" data-track-dimension="Crime, justice and the law" data-track-dimension-index="29" data-ga4-link='{"event_name":"navigation","type":"header menu bar","index":{"index_section":1,"index_link":6,"index_section_count":4},"index_total":16,"section":"Topics"}' href="/browse/justice">Crime, justice and the law</a>
+                        
+                      </li>
+                      <li class="gem-c-layout-super-navigation-header__dropdown-list-item">
+                        <a class="govuk-link gem-c-layout-super-navigation-header__navigation-second-item-link" data-track-action="topicsLink" data-track-category="headerClicked" data-track-label="/browse/disabilities" data-track-dimension="Disabled people" data-track-dimension-index="29" data-ga4-link='{"event_name":"navigation","type":"header menu bar","index":{"index_section":1,"index_link":7,"index_section_count":4},"index_total":16,"section":"Topics"}' href="/browse/disabilities">Disabled people</a>
+                        
+                      </li>
+                      <li class="gem-c-layout-super-navigation-header__dropdown-list-item">
+                        <a class="govuk-link gem-c-layout-super-navigation-header__navigation-second-item-link" data-track-action="topicsLink" data-track-category="headerClicked" data-track-label="/browse/driving" data-track-dimension="Driving and transport" data-track-dimension-index="29" data-ga4-link='{"event_name":"navigation","type":"header menu bar","index":{"index_section":1,"index_link":8,"index_section_count":4},"index_total":16,"section":"Topics"}' href="/browse/driving">Driving and transport</a>
+                        
+                      </li>
+                      <li class="gem-c-layout-super-navigation-header__dropdown-list-item">
+                        <a class="govuk-link gem-c-layout-super-navigation-header__navigation-second-item-link" data-track-action="topicsLink" data-track-category="headerClicked" data-track-label="/browse/education" data-track-dimension="Education and learning" data-track-dimension-index="29" data-ga4-link='{"event_name":"navigation","type":"header menu bar","index":{"index_section":1,"index_link":9,"index_section_count":4},"index_total":16,"section":"Topics"}' href="/browse/education">Education and learning</a>
+                        
+                      </li>
+                      <li class="gem-c-layout-super-navigation-header__dropdown-list-item">
+                        <a class="govuk-link gem-c-layout-super-navigation-header__navigation-second-item-link" data-track-action="topicsLink" data-track-category="headerClicked" data-track-label="/browse/employing-people" data-track-dimension="Employing people" data-track-dimension-index="29" data-ga4-link='{"event_name":"navigation","type":"header menu bar","index":{"index_section":1,"index_link":10,"index_section_count":4},"index_total":16,"section":"Topics"}' href="/browse/employing-people">Employing people</a>
+                        
+                      </li>
+                      <li class="gem-c-layout-super-navigation-header__dropdown-list-item">
+                        <a class="govuk-link gem-c-layout-super-navigation-header__navigation-second-item-link" data-track-action="topicsLink" data-track-category="headerClicked" data-track-label="/browse/environment-countryside" data-track-dimension="Environment and countryside" data-track-dimension-index="29" data-ga4-link='{"event_name":"navigation","type":"header menu bar","index":{"index_section":1,"index_link":11,"index_section_count":4},"index_total":16,"section":"Topics"}' href="/browse/environment-countryside">Environment and countryside</a>
+                        
+                      </li>
+                      <li class="gem-c-layout-super-navigation-header__dropdown-list-item">
+                        <a class="govuk-link gem-c-layout-super-navigation-header__navigation-second-item-link" data-track-action="topicsLink" data-track-category="headerClicked" data-track-label="/browse/housing-local-services" data-track-dimension="Housing and local services" data-track-dimension-index="29" data-ga4-link='{"event_name":"navigation","type":"header menu bar","index":{"index_section":1,"index_link":12,"index_section_count":4},"index_total":16,"section":"Topics"}' href="/browse/housing-local-services">Housing and local services</a>
+                        
+                      </li>
+                      <li class="gem-c-layout-super-navigation-header__dropdown-list-item">
+                        <a class="govuk-link gem-c-layout-super-navigation-header__navigation-second-item-link" data-track-action="topicsLink" data-track-category="headerClicked" data-track-label="/browse/tax" data-track-dimension="Money and tax" data-track-dimension-index="29" data-ga4-link='{"event_name":"navigation","type":"header menu bar","index":{"index_section":1,"index_link":13,"index_section_count":4},"index_total":16,"section":"Topics"}' href="/browse/tax">Money and tax</a>
+                        
+                      </li>
+                      <li class="gem-c-layout-super-navigation-header__dropdown-list-item">
+                        <a class="govuk-link gem-c-layout-super-navigation-header__navigation-second-item-link" data-track-action="topicsLink" data-track-category="headerClicked" data-track-label="/browse/abroad" data-track-dimension="Passports, travel and living abroad" data-track-dimension-index="29" data-ga4-link='{"event_name":"navigation","type":"header menu bar","index":{"index_section":1,"index_link":14,"index_section_count":4},"index_total":16,"section":"Topics"}' href="/browse/abroad">Passports, travel and living abroad</a>
+                        
+                      </li>
+                      <li class="gem-c-layout-super-navigation-header__dropdown-list-item">
+                        <a class="govuk-link gem-c-layout-super-navigation-header__navigation-second-item-link" data-track-action="topicsLink" data-track-category="headerClicked" data-track-label="/browse/visas-immigration" data-track-dimension="Visas and immigration" data-track-dimension-index="29" data-ga4-link='{"event_name":"navigation","type":"header menu bar","index":{"index_section":1,"index_link":15,"index_section_count":4},"index_total":16,"section":"Topics"}' href="/browse/visas-immigration">Visas and immigration</a>
+                        
+                      </li>
+                      <li class="gem-c-layout-super-navigation-header__dropdown-list-item">
+                        <a class="govuk-link gem-c-layout-super-navigation-header__navigation-second-item-link" data-track-action="topicsLink" data-track-category="headerClicked" data-track-label="/browse/working" data-track-dimension="Working, jobs and pensions" data-track-dimension-index="29" data-ga4-link='{"event_name":"navigation","type":"header menu bar","index":{"index_section":1,"index_link":16,"index_section_count":4},"index_total":16,"section":"Topics"}' href="/browse/working">Working, jobs and pensions</a>
+                        
+                      </li>
+                </ul>
+              </div>
+
+              <div class="govuk-grid-column-one-third-from-desktop gem-c-layout-super-navigation-header__column--government-activity">
+                <h3 class="govuk-heading-m gem-c-layout-super-navigation-header__column-header">
+                  Government activity
+                </h3>
+                <ul class="gem-c-layout-super-navigation-header__navigation-second-items gem-c-layout-super-navigation-header__navigation-second-items--government-activity">
+                      <li class="gem-c-layout-super-navigation-header__dropdown-list-item">
+                        <a class="govuk-link gem-c-layout-super-navigation-header__navigation-second-item-link gem-c-layout-super-navigation-header__navigation-second-item-link--with-description" data-track-action="governmentactivityLink" data-track-category="headerClicked" data-track-label="/government/organisations" data-track-dimension="Departments" data-track-dimension-index="29" data-ga4-link='{"event_name":"navigation","type":"header menu bar","index":{"index_section":2,"index_link":1,"index_section_count":4},"index_total":6,"section":"Government activity"}' href="/government/organisations">Departments</a>
+                        <p class="gem-c-layout-super-navigation-header__navigation-second-item-description">Departments, agencies and public bodies</p>
+                      </li>
+                      <li class="gem-c-layout-super-navigation-header__dropdown-list-item">
+                        <a class="govuk-link gem-c-layout-super-navigation-header__navigation-second-item-link gem-c-layout-super-navigation-header__navigation-second-item-link--with-description" data-track-action="governmentactivityLink" data-track-category="headerClicked" data-track-label="/search/news-and-communications" data-track-dimension="News" data-track-dimension-index="29" data-ga4-link='{"event_name":"navigation","type":"header menu bar","index":{"index_section":2,"index_link":2,"index_section_count":4},"index_total":6,"section":"Government activity"}' href="/search/news-and-communications">News</a>
+                        <p class="gem-c-layout-super-navigation-header__navigation-second-item-description">News stories, speeches, letters and notices</p>
+                      </li>
+                      <li class="gem-c-layout-super-navigation-header__dropdown-list-item">
+                        <a class="govuk-link gem-c-layout-super-navigation-header__navigation-second-item-link gem-c-layout-super-navigation-header__navigation-second-item-link--with-description" data-track-action="governmentactivityLink" data-track-category="headerClicked" data-track-label="/search/guidance-and-regulation" data-track-dimension="Guidance and regulation" data-track-dimension-index="29" data-ga4-link='{"event_name":"navigation","type":"header menu bar","index":{"index_section":2,"index_link":3,"index_section_count":4},"index_total":6,"section":"Government activity"}' href="/search/guidance-and-regulation">Guidance and regulation</a>
+                        <p class="gem-c-layout-super-navigation-header__navigation-second-item-description">Detailed guidance, regulations and rules</p>
+                      </li>
+                      <li class="gem-c-layout-super-navigation-header__dropdown-list-item">
+                        <a class="govuk-link gem-c-layout-super-navigation-header__navigation-second-item-link gem-c-layout-super-navigation-header__navigation-second-item-link--with-description" data-track-action="governmentactivityLink" data-track-category="headerClicked" data-track-label="/search/research-and-statistics" data-track-dimension="Research and statistics" data-track-dimension-index="29" data-ga4-link='{"event_name":"navigation","type":"header menu bar","index":{"index_section":2,"index_link":4,"index_section_count":4},"index_total":6,"section":"Government activity"}' href="/search/research-and-statistics">Research and statistics</a>
+                        <p class="gem-c-layout-super-navigation-header__navigation-second-item-description">Reports, analysis and official statistics</p>
+                      </li>
+                      <li class="gem-c-layout-super-navigation-header__dropdown-list-item">
+                        <a class="govuk-link gem-c-layout-super-navigation-header__navigation-second-item-link gem-c-layout-super-navigation-header__navigation-second-item-link--with-description" data-track-action="governmentactivityLink" data-track-category="headerClicked" data-track-label="/search/policy-papers-and-consultations" data-track-dimension="Policy papers and consultations" data-track-dimension-index="29" data-ga4-link='{"event_name":"navigation","type":"header menu bar","index":{"index_section":2,"index_link":5,"index_section_count":4},"index_total":6,"section":"Government activity"}' href="/search/policy-papers-and-consultations">Policy papers and consultations</a>
+                        <p class="gem-c-layout-super-navigation-header__navigation-second-item-description">Consultations and strategy</p>
+                      </li>
+                      <li class="gem-c-layout-super-navigation-header__dropdown-list-item">
+                        <a class="govuk-link gem-c-layout-super-navigation-header__navigation-second-item-link gem-c-layout-super-navigation-header__navigation-second-item-link--with-description" data-track-action="governmentactivityLink" data-track-category="headerClicked" data-track-label="/search/transparency-and-freedom-of-information-releases" data-track-dimension="Transparency" data-track-dimension-index="29" data-ga4-link='{"event_name":"navigation","type":"header menu bar","index":{"index_section":2,"index_link":6,"index_section_count":4},"index_total":6,"section":"Government activity"}' href="/search/transparency-and-freedom-of-information-releases">Transparency</a>
+                        <p class="gem-c-layout-super-navigation-header__navigation-second-item-description">Data, Freedom of Information releases and corporate reports</p>
+                      </li>
+                </ul>
+              </div>
+          </div>
+        </div>
+      </div>
+
+      <div id="super-search-menu" hidden class="gem-c-layout-super-navigation-header__navigation-dropdown-menu">
+        <div class="govuk-width-container gem-c-layout-super-navigation-header__search-container gem-c-layout-super-navigation-header__search-items">
+          <h3 class="govuk-visually-hidden">
+            Search
+          </h3>
+          <div class="govuk-grid-row">
+            <div class="govuk-grid-column-full">
+              <form class="gem-c-layout-super-navigation-header__search-form" id="search" data-module="ga4-form-tracker" data-ga4-form='{ "event_name": "search", "type": "header menu bar", "section": "Search GOV.UK", "action": "search", "url": "/search/all" }' data-ga4-form-include-text action="/search" method="get" role="search" aria-label="Site-wide">
+                
+<div class="gem-c-search govuk-!-display-none-print  gem-c-search--large gem-c-search--on-white gem-c-search--separate-label" data-module="gem-toggle-input-class-on-focus">
+    <label for="search-main-95be7354" class="govuk-label govuk-label--m">Search GOV.UK</label>
+  <div class="gem-c-search__item-wrapper">
+    <input enterkeyhint="search" class="gem-c-search__item gem-c-search__input js-class-toggle" id="search-main-95be7354" name="q" title="Search" type="search" value="">
+    <div class="gem-c-search__item gem-c-search__submit-wrapper">
+      <button class="gem-c-search__submit" type="submit" data-track-category="headerClicked" data-track-action="searchSubmitted" data-track-label="/search/all" data-track-dimension="Search on GOV.UK" data-track-dimension-index="29" data-module="gem-track-click" enterkeyhint="search">
+        Search
+        
+<svg class="gem-c-search__icon" width="27" height="27" viewbox="0 0 27 27" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false">
+  <circle cx="12.0161" cy="11.0161" r="8.51613" stroke="currentColor" stroke-width="3"></circle>
+  <line x1="17.8668" y1="17.3587" x2="26.4475" y2="25.9393" stroke="currentColor" stroke-width="3"></line>
+</svg>
+</button>    </div>
+  </div>
+</div>
+
+              </form>
+            </div>
+          </div>
+          <div class="govuk-grid-row">
+            <div class="govuk-grid-column-full">
+              <h3 class="govuk-heading-m">Popular on GOV.UK</h3>
+              <ul class="govuk-list">
+                  <li class="gem-c-layout-super-navigation-header__popular-item">
+                    <a class="govuk-link gem-c-layout-super-navigation-header__popular-link" data-track-action="popularLink" data-track-category="headerClicked" data-track-label="/cost-of-living" data-track-dimension="Get support with the cost of living" data-track-dimension-index="29" data-ga4-link='{"event_name":"navigation","type":"header menu bar","index":{"index_section":4,"index_link":1,"index_section_count":4},"index_total":5,"section":"Popular on GOV.UK"}' href="/cost-of-living">Get support with the cost of living</a>
+                  </li>
+                  <li class="gem-c-layout-super-navigation-header__popular-item">
+                    <a class="govuk-link gem-c-layout-super-navigation-header__popular-link" data-track-action="popularLink" data-track-category="headerClicked" data-track-label="/guidance/getting-the-energy-bills-support-scheme-discount" data-track-dimension="Find out about the Energy Bills Support Scheme" data-track-dimension-index="29" data-ga4-link='{"event_name":"navigation","type":"header menu bar","index":{"index_section":4,"index_link":2,"index_section_count":4},"index_total":5,"section":"Popular on GOV.UK"}' href="/guidance/getting-the-energy-bills-support-scheme-discount">Find out about the Energy Bills Support Scheme</a>
+                  </li>
+                  <li class="gem-c-layout-super-navigation-header__popular-item">
+                    <a class="govuk-link gem-c-layout-super-navigation-header__popular-link" data-track-action="popularLink" data-track-category="headerClicked" data-track-label="/find-a-job" data-track-dimension="Find a job" data-track-dimension-index="29" data-ga4-link='{"event_name":"navigation","type":"header menu bar","index":{"index_section":4,"index_link":3,"index_section_count":4},"index_total":5,"section":"Popular on GOV.UK"}' href="/find-a-job">Find a job</a>
+                  </li>
+                  <li class="gem-c-layout-super-navigation-header__popular-item">
+                    <a class="govuk-link gem-c-layout-super-navigation-header__popular-link" data-track-action="popularLink" data-track-category="headerClicked" data-track-label="/sign-in-universal-credit" data-track-dimension="Universal Credit account: sign in" data-track-dimension-index="29" data-ga4-link='{"event_name":"navigation","type":"header menu bar","index":{"index_section":4,"index_link":4,"index_section_count":4},"index_total":5,"section":"Popular on GOV.UK"}' href="/sign-in-universal-credit">Universal Credit account: sign in</a>
+                  </li>
+                  <li class="gem-c-layout-super-navigation-header__popular-item">
+                    <a class="govuk-link gem-c-layout-super-navigation-header__popular-link" data-track-action="popularLink" data-track-category="headerClicked" data-track-label="/check-national-insurance-record" data-track-dimension="Check your National Insurance record" data-track-dimension-index="29" data-ga4-link='{"event_name":"navigation","type":"header menu bar","index":{"index_section":4,"index_link":5,"index_section_count":4},"index_total":5,"section":"Popular on GOV.UK"}' href="/check-national-insurance-record">Check your National Insurance record</a>
+                  </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </nav>
+  </div>
+</header>
+
+
+    
+
+      <div class="gem-c-layout-for-public__blue-bar govuk-width-container"></div>
+
+
+      <div id="wrapper" class="direction-ltr govuk-width-container">
+
+        
+<div class="gem-c-contextual-breadcrumbs">
+    
+
+
+<div data-module="gem-track-click ga4-link-tracker" class="gem-c-breadcrumbs govuk-breadcrumbs govuk-breadcrumbs--collapse-on-mobile">
+  <ol class="govuk-breadcrumbs__list">
+        <li class="govuk-breadcrumbs__list-item">
+          <a data-track-category="homeLinkClicked" data-track-action="homeBreadcrumb" data-track-label="" data-track-options="{}" data-ga4-link='{"event_name":"navigation","type":"breadcrumb","index":{"index_link":"1"},"index_total":"5"}' class="govuk-breadcrumbs__link" href="/">Home</a>
+        </li>
+        <li class="govuk-breadcrumbs__list-item">
+          <a data-track-category="breadcrumbClicked" data-track-action="2" data-track-label="/housing-local-and-community" data-track-options='{"dimension28":"5","dimension29":"Housing, local and community"}' data-ga4-link='{"event_name":"navigation","type":"breadcrumb","index":{"index_link":"2"},"index_total":"5"}' class="govuk-breadcrumbs__link" href="/housing-local-and-community">Housing, local and community</a>
+        </li>
+        <li class="govuk-breadcrumbs__list-item">
+          <a data-track-category="breadcrumbClicked" data-track-action="3" data-track-label="/housing-local-and-community/planning-and-building" data-track-options='{"dimension28":"5","dimension29":"Planning and building"}' data-ga4-link='{"event_name":"navigation","type":"breadcrumb","index":{"index_link":"3"},"index_total":"5"}' class="govuk-breadcrumbs__link" href="/housing-local-and-community/planning-and-building">Planning and building</a>
+        </li>
+        <li class="govuk-breadcrumbs__list-item">
+          <a data-track-category="breadcrumbClicked" data-track-action="4" data-track-label="/housing-local-and-community/energy-efficiency-in-buildings" data-track-options='{"dimension28":"5","dimension29":"Energy efficiency in buildings"}' data-ga4-link='{"event_name":"navigation","type":"breadcrumb","index":{"index_link":"4"},"index_total":"5"}' class="govuk-breadcrumbs__link" href="/housing-local-and-community/energy-efficiency-in-buildings">Energy efficiency in buildings</a>
+        </li>
+        <li class="govuk-breadcrumbs__list-item">
+          <a data-track-category="breadcrumbClicked" data-track-action="5" data-track-label="/government/publications/air-conditioning-inspections-for-buildings" data-track-options='{"dimension28":"5","dimension29":"Air-conditioning inspections for buildings"}' data-ga4-link='{"event_name":"navigation","type":"breadcrumb","index":{"index_link":"5"},"index_total":"5"}' class="govuk-breadcrumbs__link" href="/government/publications/air-conditioning-inspections-for-buildings">Air-conditioning inspections for buildings</a>
+        </li>
+  </ol>
+</div>
+</div>
+
+    
+    
+
+    <main role="main" id="content" class="html-publication" lang="en">
+          
+
+  <div class="publication-external">
+    <ul class="organisation-logos">
+        <li class="organisation-logos__logo">
+          
+<div class="gem-c-organisation-logo brand--department-for-levelling-up-housing-and-communities">
+    <a class="gem-c-organisation-logo__container gem-c-organisation-logo__link gem-c-organisation-logo__crest gem-c-organisation-logo__crest--single-identity brand__border-color" href="/government/organisations/department-for-levelling-up-housing-and-communities">
+      <span class="gem-c-organisation-logo__name">Department for Levelling Up,<br>Housing &amp; Communities</span>
+</a>
+</div>
+        </li>
+        <li class="organisation-logos__logo">
+          
+<div class="gem-c-organisation-logo brand--department-for-communities-and-local-government">
+    <a class="gem-c-organisation-logo__container gem-c-organisation-logo__link gem-c-organisation-logo__crest gem-c-organisation-logo__crest--single-identity brand__border-color" href="/government/organisations/ministry-of-housing-communities-and-local-government">
+      <span class="gem-c-organisation-logo__name">Ministry of Housing,<br>Communities &amp;<br>Local Government</span>
+</a>
+</div>
+        </li>
+    </ul>
+  </div>
+
+  <header class="gem-c-inverse-header  gem-c-inverse-header--padding-top ">
+    
+  
+
+<div class="gem-c-title gem-c-title--inverse govuk-!-margin-top-8 govuk-!-margin-bottom-0">
+      <span class="govuk-caption-xl gem-c-title__context">
+    Guidance
+  </span>
+
+
+  <h1 class="gem-c-title__text govuk-heading-xl">
+    A guide to air conditioning inspections in buildings
+  </h1>
+</div>
+  <p class="publication-header__last-changed">Updated 28 December 2020</p>
+
+  </header>
+
+
+  
+  <section class="gem-c-devolved-nations">
+    <h2 class="govuk-heading-s govuk-!-margin-bottom-0">
+      Applies to England and Wales
+</h2>
+</section>
+
+<div id="contents">
+  <div class="govuk-grid-row">
+      <div class="govuk-grid-column-one-quarter-from-desktop contents-list-container">
+          <nav data-module="gem-track-click" aria-label="Contents" class="gem-c-contents-list" role="navigation">
+    <h2 class="gem-c-contents-list__title">
+      Contents
+</h2>
+    <ol class="gem-c-contents-list__list">
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--numbered">
+          <a class="gem-c-contents-list__link govuk-link govuk-link--no-underline" data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#introduction" data-track-options='{"dimension29":"Introduction"}' href="#introduction">Introduction</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--numbered">
+          <a class="gem-c-contents-list__link govuk-link govuk-link--no-underline" data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#air-conditioning-inspection-requirements" data-track-options='{"dimension29":"Air conditioning inspection requirements"}' href="#air-conditioning-inspection-requirements">Air conditioning inspection requirements</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--numbered">
+          <a class="gem-c-contents-list__link govuk-link govuk-link--no-underline" data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#fluorinated-greenhouse-gas-inspections" data-track-options='{"dimension29":"Fluorinated greenhouse gas inspections"}' href="#fluorinated-greenhouse-gas-inspections">Fluorinated greenhouse gas inspections</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--numbered">
+          <a class="gem-c-contents-list__link govuk-link govuk-link--no-underline" data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#air-conditioning-inspection-reports" data-track-options='{"dimension29":"Air conditioning inspection reports"}' href="#air-conditioning-inspection-reports">Air conditioning inspection reports</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--numbered">
+          <a class="gem-c-contents-list__link govuk-link govuk-link--no-underline" data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#obtaining-an-air-conditioning-inspection" data-track-options='{"dimension29":"Obtaining an air conditioning inspection"}' href="#obtaining-an-air-conditioning-inspection">Obtaining an air conditioning inspection</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--numbered">
+          <a class="gem-c-contents-list__link govuk-link govuk-link--no-underline" data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#applying-the-regulations-in-practice" data-track-options='{"dimension29":"Applying the regulations in practice"}' href="#applying-the-regulations-in-practice">Applying the regulations in practice</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--numbered">
+          <a class="gem-c-contents-list__link govuk-link govuk-link--no-underline" data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#control-of-air-conditioning-systems-and-the-requirement-for-air-conditioning-inspections" data-track-options='{"dimension29":"Control of air conditioning systems and the requirement for air conditioning inspections"}' href="#control-of-air-conditioning-systems-and-the-requirement-for-air-conditioning-inspections">Control of air conditioning systems and the requirement for air conditioning inspections</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--numbered">
+          <a class="gem-c-contents-list__link govuk-link govuk-link--no-underline" data-track-category="contentsClicked" data-track-action="content_item 8" data-track-label="#assessing-the-efficiency-of-an-air-conditioning-system" data-track-options='{"dimension29":"Assessing the efficiency of an air conditioning system"}' href="#assessing-the-efficiency-of-an-air-conditioning-system">Assessing the efficiency of an air conditioning system</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--numbered">
+          <a class="gem-c-contents-list__link govuk-link govuk-link--no-underline" data-track-category="contentsClicked" data-track-action="content_item 9" data-track-label="#consumer-protection-and-enforcement" data-track-options='{"dimension29":"Consumer protection and enforcement"}' href="#consumer-protection-and-enforcement">Consumer protection and enforcement</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--numbered">
+          <a class="gem-c-contents-list__link govuk-link govuk-link--no-underline" data-track-category="contentsClicked" data-track-action="content_item 10" data-track-label="#annex-a-useful-information" data-track-options='{"dimension29":"Annex A: Useful information"}' href="#annex-a-useful-information">Annex A: Useful information</a>
+
+        </li>
+    </ol>
+</nav>
+
+        
+<div class="gem-c-print-link govuk-!-display-none-print govuk-!-margin-top-0 govuk-!-margin-bottom-6">
+    <button class="govuk-link govuk-body-s gem-c-print-link__button" data-module="ga4-event-tracker print-link" data-ga4-event='{"event_name":"print_page","type":"print page","index":{"index_link":1},"index_total":1,"section":"Content"}'>Print this page</button>
+</div>
+      </div>
+
+    <div class="print-wrapper">
+      <div class="meta-data meta-data--display-print">
+        <p>
+  <img class="meta-data-licence" src="/assets/government-frontend/open-government-licence-min-93b6a51b518ff99714a1aa2a7d2162735c155ec3cb073c75fb88b2a332fa83d3.png">
+</p>
+<p>
+  © Crown copyright 2020
+</p>
+<p>
+  This publication is licensed under the terms of the Open Government Licence v3.0 except where otherwise stated. To view this licence, visit <a href="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3">nationalarchives.gov.uk/doc/open-government-licence/version/3</a> or write to the Information Policy Team, The National Archives, Kew, London TW9 4DU, or email: <a href="mailto:psi@nationalarchives.gov.uk">psi@nationalarchives.gov.uk</a>.
+</p>
+<p>
+  Where we have identified any third party copyright information you will need to obtain permission from the copyright holders concerned.
+</p>
+<p>
+  This publication is available at https://www.gov.uk/government/publications/air-conditioning-inspections-for-buildings/a-guide-to-air-conditioning-inspections
+</p>
+
+
+      </div>
+    </div>
+
+    <div class="main-content-container">
+      <div class="gem-c-govspeak-html-publication">
+  
+<div class="gem-c-govspeak govuk-govspeak " data-module="govspeak">
+    
+    
+        <div class="govspeak">
+<h2 id="introduction">Introduction</h2>
+
+<p>This guidance is intended to help anyone who manages or controls an air conditioning system to understand their obligations under the <a rel="external" href="https://www.legislation.gov.uk/uksi/2020/1422/contents/made" class="govuk-link">Energy Performance of Buildings (England and Wales) Regulations 2012</a>, as amended in 2020 (the EPB regulations). This guidance aims to explain how the EPB regulations work in practice, how they should be applied, what your responsibilities are and when air conditioning inspections are required.</p>
+
+<p>While this guidance aims to explain how the requirements will work in practice, any interpretation of the regulations is offered only as a guide. The Ministry of Housing, Communities and Local Government (MHCLG) cannot provide legal advice. Therefore, it is important to read and understand the regulations and for individuals themselves to take a view on whether their systems fall within the requirements of the regulations. In cases of doubt independent legal advice should be sought.</p>
+
+<p>This guidance does not address other statutory inspection requirements, such as those which cover health and safety requirements, nor does it cover inspection under the Fluorinated Greenhouse Gas Regulations and associated requirements, which are outside the remit of the EPB Regulations.</p>
+
+<p>This guidance incorporates extracts from the Chartered Institution of Building Services Engineers (CIBSE), ‘<a rel="external" href="https://www.cibse.org/knowledge/knowledge-items/detail?id=a0q20000008I7etAAC" class="govuk-link">TM44: Inspection of air conditioning systems: a guide to EPBD compliance</a>’ (CIBSE TM44 guidance), with the permission of CIBSE, which describes the appropriate assessment methodology.</p>
+
+<p>This document is part of a suite of documents that explains the requirements for energy performance certificates (EPCs), display energy certificates (DECs) and air conditioning inspections in England and Wales only. Buildings in Northern Ireland and Scotland are subject to separate regulatory requirements and are not covered by or referred to in this guidance.</p>
+
+<h2 id="air-conditioning-inspection-requirements">Air conditioning inspection requirements</h2>
+
+<h3 id="why-air-conditioning-inspections-are-required">Why air conditioning inspections are required?</h3>
+
+<p>An air conditioning system inspection by an accredited air conditioning energy assessor (the energy assessor) is designed to improve efficiency, reduce energy consumption, reduce operating costs and reduce carbon emissions. The energy assessor will highlight how the operation of existing systems can be improved or opportunities to replace older, less energy efficient systems, or oversized systems, with new energy efficient systems.</p>
+
+<p>As the replacement of refrigerant is restricted in older systems (as established in other legislation), there is an additional incentive to improve or replace older systems with more modern energy efficient units.</p>
+
+<p>The person who controls the operation of the system, such as the building owner or manager, has statutory obligations and duties of care related to the operation and maintenance of air conditioning systems. The inspections referred to in this guide are in addition to the standard activities associated with the ownership and operation of air conditioning systems.</p>
+
+<p>Inspection, maintenance and cleaning programmes maintain the ability of the system to provide healthy and comfortable environments for building occupants, limiting the escape of refrigerant gases and ensuring the safety of equipment. The practices and procedures needed to achieve these aims should be applied more frequently than the assessment for energy efficiency described here. It is outside the scope of this document to describe these procedures in detail.</p>
+
+<h3 id="when-air-conditioning-inspections-are-required">When air conditioning inspections are required?</h3>
+
+<p>All air conditioning systems with an effective rated output of more than 12kW must be regularly inspected by an energy assessor. The inspections must be no more than five years apart.</p>
+
+<p>The regulations require the first inspection of air conditioning systems in scope to be carried out as follows:</p>
+
+<ul>
+  <li>for all systems first put into service on or after 1 January 2008, the first inspection must have taken place within five years of the date when the system was first put into service</li>
+  <li>for other air conditioning systems, where the effective rated output is more than 250kW, the first inspection must have taken place by 4 January 2009</li>
+  <li>for other air conditioning systems, where the effective rated output is more than 12kW, the first inspection must have taken place by 4 January 2011</li>
+</ul>
+
+<h3 id="which-systems-require-an-air-conditioning-inspection">Which systems require an air conditioning inspection?</h3>
+
+<p>Only air conditioning systems with an effective rated output of more than 12kW are affected by these regulations. This will include systems consisting of individual units which are less than 12kW, but whose combined effective rated output is more than 12kW.</p>
+
+<p>The effective rated output is the maximum calorific output in kW stated by the manufacturer of the system as delivered during continuous operation while complying with the useful efficiency indicated by the manufacturer.</p>
+
+<p>One or more air conditioning units within a building controlled by a single person are considered to comprise a single air conditioning system for the purposes of the regulations.</p>
+
+<p>‘Air conditioning system’ means a combination of all components required to provide a form of air treatment in which the temperature is controlled or can be lowered; and includes systems which combine such air treatment with the control of ventilation, humidity and air cleanliness. (As defined in <a rel="external" href="https://www.legislation.gov.uk/uksi/2012/3118/made" class="govuk-link">The Energy Performance of Buildings (England and Wales) Regulations 2012 (as amended)</a>). This guidance is intended to cover any air conditioning system where refrigeration is used to provide cooling for the comfort of the occupants of the building.</p>
+
+<p>There is no exemption within the regulations which restricts the inspection and maintenance of systems to those purely for the comfort of occupants. Refrigeration provided solely for process applications, such as cold stores and pharmaceutical production, can be inspected. However, this guidance is not intended to cover dedicated process cooling systems.</p>
+
+<h2 id="fluorinated-greenhouse-gas-inspections">Fluorinated greenhouse gas inspections</h2>
+
+<p>Fluorinated greenhouse gases (F-gases) are powerful greenhouse gases, with environmental impacts many times greater than that of carbon dioxide. F-gases replaced ozone depleting substances, which are now entirely banned except in very limited circumstances. The most common types of F-gases are hydrofluorocarbons (HFCs), which are often used as the refrigerant in air conditioning systems.</p>
+
+<p>A phase-down of HFC use was introduced by the Kigali Amendment to the United Nations Montreal Protocol in 2016. The Amendment requires an 85% reduction in HFC use by 2036. The EU and UK meet their Kigali obligations through the EU F-gas Regulation 517/2014.  After the end of the EU Exit Transition Period, the F-gas Regulation and its supplemental legislation will be retained in domestic law as it applies to Great Britain, with Northern Ireland remaining within, and subject to, the EU’s F-gas system and legislation.</p>
+
+<p>Alongside provisions for the reduction in HFC use, the F-gas Regulation sets out a framework of obligations to minimise the risk of emissions. This includes maintenance, regular leak checking and repair requirements for equipment containing F-gases, such as air conditioning systems, as well as training and certification requirements for technicians and companies that work on them. Further <a href="https://www.gov.uk/government/collections/fluorinated-gas-f-gas-guidance-for-users-producers-and-traders" class="govuk-link">information on F-gas obligations</a> can be found on the Department for Environment, Food and Rural Affairs (Defra) website.</p>
+
+<h2 id="air-conditioning-inspection-reports">Air conditioning inspection reports</h2>
+
+<h3 id="what-advice-can-i-expect-to-receive-from-the-air-conditioning-report">What advice can I expect to receive from the air conditioning report?</h3>
+
+<p>The purpose of the air conditioning inspection report is to ensure that the building owner or manager is provided with information regarding the efficiency of the air conditioning systems that they control, together with advice on how to improve the energy efficiency of the system, to identify opportunities to save energy and carbon and to reduce operating costs.</p>
+
+<p>The air conditioning inspection report will include at least the following details:</p>
+
+<ul>
+  <li>the likely efficiency of the system and any suggestions for improvement</li>
+  <li>any faults identified during the inspection and suggested actions</li>
+  <li>the adequacy of equipment maintenance and any suggestions for improvement</li>
+  <li>the adequacy of the installed controls and control settings and any suggestions for improvement</li>
+  <li>the current size of the installed system in relation to the cooling load and any suggestions for improvement</li>
+  <li>consideration of the capabilities of the system to optimise its performance under typical operating conditions</li>
+  <li>a summary of the findings and the key recommendations</li>
+</ul>
+
+<p>There is no legal requirement to act on the recommendations. However, acting on the advice and key recommendations in the air conditioning inspection report and rectifying faults, or making the appropriate improvements, where this is attractive and cost effective, will contribute to the efficient running of air conditioning systems. It will also reduce carbon emissions and the operating costs for the building occupants.</p>
+
+<p>In some cases, the costs of providing both heating and cooling may be reduced, where these two systems are in use at the same time unnecessarily, due to inappropriate control or settings. In many cases, it will be clear that the building and its system are already well-understood, documented and commissioned, with records available showing that the equipment has been regularly maintained to a good standard.</p>
+
+<p>In such cases, the scope of an inspection could be reduced and the air conditioning inspection report brief, with the main content advising on opportunities for load reduction or alternative solutions not previously considered. In other cases, the energy assessor may find it necessary to suggest relatively basic maintenance, such as cleaning or repairs to equipment whose efficiency has evidently suffered through neglect.</p>
+
+<p>Cleaning operations or adjustments to controls do not form part of the inspection procedure, even where they might be carried out simply and with significant immediate effect to improve efficiency. The inspection is not intended, or expected, to involve any physical work of this nature as this could change the level of professional risk to the energy assessor. Authority to carry out this work would be needed in a separate arrangement with the energy assessor, provided they have the necessary competence to do this work. However, the building owner or manager may well be able to carry out some alterations themselves as the inspection is carried out, provided they agree with the energy assessor’s observations.</p>
+
+<p>Most air conditioning inspection reports are likely to contain advice with a combination of simple low or no cost measures and measures where some investment may be required to apply the measures, or to investigate the potential of applying measures. The building owner or manager should also be provided with access to, or informed about how to obtain advice on the ongoing management of the systems.</p>
+
+<h3 id="what-other-information-does-the-air-conditioning-inspection-report-contain">What other information does the air conditioning inspection report contain?</h3>
+
+<p>The air conditioning inspection report must include, but is not limited to, the following information:</p>
+
+<ul>
+  <li>the address of the building in which the system is located</li>
+  <li>the name of the accredited energy assessor</li>
+  <li>the name and address of the energy assessor’s employer, or the name under which a self-employed assessor trades and his address</li>
+  <li>the date on which the inspection occurred</li>
+  <li>the name of the government approved air conditioning accreditation scheme<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="govuk-link" rel="footnote">[footnote 1]</a></sup> of which the accredited energy assessor is a member</li>
+</ul>
+
+<p>All air conditioning inspection reports produced on or after the 6 April 2012 must contain a valid reference number. This number can only be generated once the air conditioning inspection report has been lodged on the Energy Performance of Buildings Register (“the register”).</p>
+
+<h2 id="obtaining-an-air-conditioning-inspection">Obtaining an air conditioning inspection</h2>
+
+<h3 id="who-is-responsible-for-ensuring-an-inspection-is-completed">Who is responsible for ensuring an inspection is completed?</h3>
+
+<p>The person who controls the operation of an air conditioning system must:</p>
+
+<ul>
+  <li>ensure an inspection has been done in accordance with the requirements and timetable of the regulations</li>
+  <li>keep the most recent air conditioning inspection report provided by an energy assessor</li>
+  <li>give any air conditioning inspection report to any person taking over responsibilities with respect to the control of the air conditioning system</li>
+</ul>
+
+<p>If the control of an air conditioning system is passed to another person and that person has not been given an air conditioning inspection report by the previous operator of the system, the system must be inspected within three months of the new operator taking over control of the system.</p>
+
+<h3 id="who-controls-an-air-conditioning-system">Who controls an air conditioning system?</h3>
+
+<p>The person who controls the operation of the system is regarded as the person who controls the technical functioning of the system, not someone who does no more than adjust the temperature or whose only responsibility is to adjust the controls.</p>
+
+<p>The owner of the system will usually control the operation of the system even where day-to-day operation is contracted out to another person or organisation. Where the occupier of the building takes total responsibility for a building and its services (e.g. full repairing and insuring lease), then the occupier will control the system.</p>
+
+<p>Where the operation and management of the system is carried out on a day-to-day facilities management basis, or a servicing company provides routine servicing and maintenance, the contract may specify the facilities management, or servicing company, as the controller of the system with responsibility for ensuring that inspections are carried out. Depending on the terms of the contract the facilities management or servicing company may become responsible under the regulations also. In such cases, however, the landlord or building occupier retains a parallel duty to ensure that an air conditioning system has been inspected.</p>
+
+<p>Where air conditioning systems are installed locally by the building occupier, the responsibility will lie with the occupier as they own the system.</p>
+
+<h3 id="who-can-inspect-air-conditioning-systems">Who can inspect air conditioning systems?</h3>
+
+<p>An inspection of an air conditioning system must be carried out by an <a href="https://www.gov.uk/get-your-air-conditioning-system-inspected" class="govuk-link">energy assessor</a> who is a current member of an accreditation scheme. The energy assessor must make a copy of the air conditioning inspection report available to the building owner or manager, or to the person who controls the operation of the system, as soon as practicable after the inspection date, but only after the air conditioning inspection report is entered on the register. Only air conditioning inspection reports which have been produced and lodged on the register by accredited energy assessors are valid reports.</p>
+
+<p>In certain circumstances, data gatherers, working under the supervision of the energy assessor, enable the energy assessor to produce the air conditioning inspection reports for larger and sometimes more complex buildings and portfolios of buildings. Data gatherers must have a contractual relationship with an energy assessor, or the company employing the energy assessor, to provide professional assistance to gather the information needed to carry out an energy assessment of a building for the purpose of issuing an air conditioning inspection report. The energy assessor must be able to verify the data and supervise how and by whom it is collected. For the purposes of effective quality control and assurance, the energy assessor must not sanction any practice that is contrary to the quality of the air conditioning inspection report. MHCLG has provided accreditation schemes with guidance on this issue.</p>
+
+<h3 id="who-is-responsible-for-monitoring-the-work-of-energy-assessors">Who is responsible for monitoring the work of energy assessors?</h3>
+
+<p>Accreditation schemes (Annex A) are responsible for managing energy assessors and for quality-assuring air conditioning inspection reports produced by their energy assessors. Accreditation schemes must ensure that energy assessors are competent and possess the appropriate skills to conduct energy assessments.</p>
+
+<p>To become a member of an accreditation scheme, the energy assessor will need to:</p>
+
+<ul>
+  <li>demonstrate their competence, either by having a recognised qualification from an awarding body, or approved prior experience and learning equivalent, to the national occupational standard requirements</li>
+  <li>maintain appropriate professional indemnity cover</li>
+  <li>update their skills and knowledge regularly</li>
+  <li>participate in the accreditation schemes’ quality assurance procedures</li>
+  <li>abide by accreditation scheme advice and guidance</li>
+</ul>
+
+<h3 id="am-i-required-to-keep-the-air-conditioning-inspection-report">Am I required to keep the air conditioning inspection report?</h3>
+
+<p>The air conditioning inspection report must be kept in a safe place so that it can be used to inform subsequent inspections or passed to a new system owner or manager. The air conditioning inspection report should be kept with maintenance and/or other energy records, for example, in a building log book.</p>
+
+<p>Newer buildings may already be provided with a building log book satisfying the requirements of Part L of the Building Regulations to provide the building owner or manager with information about the building, its fixed services and their maintenance requirements.  The building log book would normally be the most suitable place to keep records of the air conditioning inspection, together with other such inspection results e.g. fluorinated greenhouse gas inspections.  Where a log book does not exist, it would be useful to keep air conditioning inspection records in a relevant section of the building’s operation and maintenance documents.</p>
+
+<p>Other information it would be helpful to keep in the building log book or if a log book is not available, with the building’s operation and maintenance documents would be the preparatory details for packaged cooling systems or for centralised cooling systems. Further information can be found in sections 2.2 and 2.3 of the CIBSE TM44, guidance (or similar equivalent guidance).  Information that would be helpful to retain includes:</p>
+
+<ul>
+  <li>a copy of the fully signed air conditioning inspection report of the air conditioning inspection produced by the energy assessor</li>
+  <li>the recommendation report and any data used to prepare an EPC for the building (where one has been produced)</li>
+  <li>the recommendation report produced to accompany a DEC (if one is required)</li>
+  <li>the reports from any other regular inspections, such as inspections for refrigerant leakage, involving the building’s air conditioning or heating systems</li>
+</ul>
+
+<p>This information can then be provided for subsequent inspections and it may help to minimise the time needed to carry out an inspection.</p>
+
+<h2 id="applying-the-regulations-in-practice">Applying the regulations in practice</h2>
+
+<h3 id="where-can-i-find-information-about-the-size-of-an-air-conditioning-system">Where can I find information about the size of an air conditioning system?</h3>
+
+<p>The effective output of an individual air conditioning unit or system may be given on the rating plate attached to the unit. It may also be found in the operating and maintenance manual or on the manufacturer’s website. Alternatively, where the system is covered by a maintenance contract, the capacity should be known by the contractor and should be reported in the maintenance records they supply. Where there is more than one unit in a system, it may be necessary to aggregate the ratings shown on the rating plate of each unit.</p>
+
+<p>The guidelines below are an approximate indication of typical figures for installed capacity for various spaces and may help you determine whether your system is within the scope of the regulations. Cooling requirements depend on a wide range of circumstances, including the fabric, location and orientation of the building, as well as the activities and the number of people occupying the building. Older systems are also likely to have higher rated outputs for a given floor area. Where more specific figures are needed, these should be calculated taking account of the particular circumstances of the building and its use.</p>
+
+<p>If it is not clear whether a building reaches the threshold, the installed capacity of the system must be determined by appropriate inspection, calculation and enquiries. In other, more specialised buildings, the wide range of factors which influence system capacity means that the capacity of these systems should be determined by a suitably qualified person. If the information is not already available, the size of the system should be determined on a case-by-case basis.</p>
+
+<p>For larger systems, a central cooling system serving an office building of 2,000m2 is likely to be 250kW rated output. Cooling systems serving meeting rooms which may be used by large numbers of people, such as council chambers, may exceed the 250kW threshold for lower floor areas.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th scope="col">Activity</th>
+      <th scope="col">Likely area requiring 12kW of cooling</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Air conditioning general office spaces<br> Assuming typical levels of electrical equipment and 8-10 m<sup>2</sup> per person</td>
+      <td>200 m<sup>2</sup>
+</td>
+    </tr>
+    <tr>
+      <td>Air conditioned offices with high levels of IT electrical equipment</td>
+      <td>100 m<sup>2</sup>
+</td>
+    </tr>
+    <tr>
+      <td>Office, call centre or dealing floors with high occupation densities of 6 m<sup>2</sup> or similar and high levels of IT, communication or lighting loads may well fall within the scope at smaller areas.</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Retail spaces with average levels of display lighting</td>
+      <td>250 m<sup>2</sup>
+</td>
+    </tr>
+    <tr>
+      <td>Retail spaces with high levels of display lighting and illuminated cabinets</td>
+      <td>150 m<sup>2</sup>
+</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="control-of-air-conditioning-systems-and-the-requirement-for-air-conditioning-inspections">Control of air conditioning systems and the requirement for air conditioning inspections</h2>
+
+<h3 id="control-of-equipment">Control of equipment</h3>
+
+<p>The building owner or manager is responsible for ensuring there is an air conditioning inspection report for the central system and the building occupier is responsible for ensuring there is an air conditioning inspection report for the equipment they have installed. In this example each party controls less than 250kW and the first inspection must have happened by 4 January 2011.</p>
+
+<div class="call-to-action">
+<figure class="image embedded"><div class="img"><img src="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/image_data/file/111591/Air_cond_1_960.png" alt=""></div>
+<figcaption><p>The central air conditioning system for the building is 150kW.
+<br><br>
+Tenant 1 occupies floors 1 and 2 and had additionally installed their own system of 110kW.
+<br><br>
+The landlord is the relevant person for the control of the central (150kW) system. The tenant is the relevant person for the control of the additional system (110kW) on floors 1 and 2.</p></figcaption></figure>
+</div>
+
+<h3 id="multiple-small-systems-in-a-building">Multiple small systems in a building</h3>
+
+<p>Where a system consists of a number of small units with an effective rated output of less than 12kW, but the total number of units within the building means that the combined cooling capacity is greater than 12kW then an air conditioning inspection is required.</p>
+
+<p>The example below shows an air conditioning system with a cooling capacity greater than 250kW that serves multiple separate rooms.  Although the air conditioning system serves multiple separate rooms, some with cooling capacity as low as 3kW per room, the air conditioning system is a single system under single control for the whole building with a cooling capacity greater than 250kW.  An air conditioning inspection on a system with a cooling capacity greater than 250kW should have been carried out by 4 January 2009.  A revised air conditioning inspection report would be required every 5 years from the date of the initial inspection.</p>
+
+<div class="call-to-action">
+<figure class="image embedded"><div class="img"><img src="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/image_data/file/111594/Air_cond_2_960.png" alt=""></div>
+<figcaption><p>Hotel has 50 rooms. Each room has a cooling capacity of 3 kW. The System is under the control of the hotel chain. The total under single control is 270kW, 150kW in rooms and 120kW for the reception rooms and restaurants. The first inspection must have taken place by 4 January 2009.</p></figcaption></figure>
+</div>
+
+<h3 id="equipment-under-single-control-in-parts-of-a-building">Equipment under single control in parts of a building</h3>
+
+<p>The example below shows an air conditioning system with a cooling capacity greater than 250kW that serves three separate parts of a building that are designed for separate use.  Although the air conditioning system serves three parts of a building that are designed for separate use the air conditioning system is a single system under single control for the whole building with a cooling capacity greater than 250kW.  An air conditioning inspection on a system with a cooling greater than 250kW should have been carried out by 4 January 2009.  A revised air conditioning inspection report would be required every 5 years from the date of the initial inspection.</p>
+
+<div class="call-to-action">
+<figure class="image embedded"><div class="img"><img src="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/image_data/file/111595/Air_cond_3_960.png" alt=""></div>
+<figcaption><p>Units 1, 2 and 3 are parts within a building. They are designed or altered to be used separately. <br><br> The air conditioning system serves units 1, 2 and 3 and are controlled by the same person. <br><br> Together the total capacity controlled is &gt; 250kW. <br><br> The first inspection must have been completed by 4 January 2009.</p></figcaption></figure>
+</div>
+
+<h3 id="equipment-under-single-control-in-separate-buildings">Equipment under single control in separate buildings</h3>
+
+<p>Where an individual building benefits from the refrigeration plant of an air conditioning system under single control, the building owner or manager is responsible for obtaining an air conditioning inspection report if the rating of the local cooling plant in the building is greater than 12kW.</p>
+
+<p>The buildings are not covered by the air conditioning plant under single control, unless the systems in these buildings are a permanent part of the air conditioning system.</p>
+
+<p>The example below shows an air conditioning system with a cooling capacity greater than 250kW that serves four separate buildings.  Although the air conditioning system serves four separate buildings the air conditioning system is a single system under single control with a cooling capacity greater than 250kW.  An air conditioning inspection on a system with a cooling capacity greater than 250kW should have been carried out by 4 January 2009.  A revised air conditioning inspection report would be required every 5 years from the date of the initial inspection.</p>
+
+<div class="call-to-action">
+<figure class="image embedded"><div class="img"><img src="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/image_data/file/111596/Air_cond_4_960.png" alt=""></div>
+<figcaption><p>Air conditioning systems in buildings 1-4 are part of a district cooling system and are controlled by the same person.
+<br><br>
+Together the total capacity controlled is &gt; 250kW.
+<br><br>
+The first inspection must have been completed by 4 January 2009.</p></figcaption></figure>
+</div>
+
+<h3 id="cooling-capacity-where-occupants-benefit-from-additional-cooling-capacity">Cooling capacity, where occupants benefit from additional cooling capacity</h3>
+
+<p>In this example, a building is served by a single system of more than 250kW capacity under single control with an additional air conditioning system rated at 100kW.</p>
+
+<p>An air conditioning inspection on a system with a cooling capacity greater than 250kW should have been carried out by 4 January 2009.  A revised air conditioning inspection report would be required every 5 years from the date of the initial inspection.</p>
+
+<div class="call-to-action">
+<figure class="image embedded"><div class="img"><img src="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/image_data/file/111597/Air_cond_5_960.png" alt=""></div>
+<figcaption><p>The building is served by a single system under single control &lt; 250kW. In addition an air conditioning system of 100kW has been installed to serve the trading floor. The total under single control is &gt;250kW. The first inspection must have been completed by 4 January 2009.
+<br><br>
+The occupants on the trading floor are using machines rather than solely running the process. Any additional air conditioning capacity, therefore, benefits the occupants and is included in the air conditioning capacity to be inspected.</p></figcaption></figure>
+</div>
+
+<h2 id="assessing-the-efficiency-of-an-air-conditioning-system">Assessing the efficiency of an air conditioning system</h2>
+
+<h3 id="what-is-the-scope-of-an-air-conditioning-inspection">What is the scope of an air conditioning inspection?</h3>
+
+<h4 id="refrigeration">Refrigeration</h4>
+
+<p>Refrigeration equipment and its associated heat exchange systems are checked briefly. The inspection looks primarily for indicators of damage or lack of maintenance that would significantly reduce their efficiency from their ‘as new’ state and does not provide high levels of detail.</p>
+
+<p>Effective heat rejection is necessary to maintain the efficiency of the refrigeration system. If outdoor heat rejection equipment is damaged, or its access to adequate flow of air is otherwise reduced by blockage due to dirt or debris, its effectiveness in rejecting heat is reduced and its temperature will be unnecessarily high. This has the effect of reducing refrigeration efficiency and reducing the cooling capacity of the system. It may cause the refrigeration equipment to turn off and on under the action of its own high temperature or pressure cut-out, often without satisfying the building cooling load.</p>
+
+<p>Similarly, effective indoor heat exchange is necessary to maintain the efficiency of the refrigeration system. If this heat exchange equipment is damaged, or its access to adequate airflow is otherwise reduced, its effectiveness in transferring heat to the refrigeration system is reduced and its temperature will be unnecessarily low. This consequentially reduced temperature at the indoor unit increases the temperature difference that the refrigeration system has to maintain, which has the effect of reducing the cooling capacity of the system. It may cause the refrigeration equipment to turn off and on under the action of its low temperature or pressure cut-out, often without satisfying the building cooling load.</p>
+
+<h4 id="air-moving-systems">Air moving systems</h4>
+
+<p>Where installed as part of the system to provide cooling, air moving systems is an important factor in the assessment. The contribution that fans make to the total annual energy consumption of the combined cooling system is likely to be higher than that of the refrigeration plant itself, and there may be a greater potential for improvement.</p>
+
+<p>The effectiveness of how air is delivered can play a part in determining the overall efficiency of the air conditioning system. Where delivery systems are ineffective, a plant that is otherwise efficient may operate for longer periods than necessary. However, the reverse may also be true, in that some delivery systems may interact unfavourably with occupants or control sensors, leading to reduced operation and consequential lack of adequate cooling. Improving some systems, even those operating at good efficiency, could reduce annual energy use.</p>
+
+<p>Important factors to observe are the condition of; damage to; or blockage of filters and heat exchangers, and the fan type and method of control. Ventilation air delivery systems need free access to outdoor air. Where grilles, screens or pre-filters are obscured through damage or by debris, additional energy will be needed to overcome the extra resistance caused by the restriction to air flow, or the system may under-perform in other ways due to reduced air flow rates.</p>
+
+<p>Where systems provide cooled air, admitting air from locations where the local air temperature may be higher than ambient will add to the energy required to achieve cooling to the required temperature. Such locations might include positions near busy roads, in car parks, or where exhaust air from the building could be drawn into the air inlet.</p>
+
+<h4 id="controls">Controls</h4>
+
+<p>System controls are assessed in more detail. There could be considerable scope to identify inefficiency due to inappropriate control methods and control settings and poorly located sensors.  There may be potential for improvement at low cost. Improving systems might be as simple as adjusting time switches or for cooling or heating thermostats being set correctly. The energy assessor would not reset them, but will report to the building owner or manager.</p>
+
+<p>An investigation of the realised effectiveness of system controls over any significant period of operation would be outside the scope of a simple inspection regime, but a series of physical observations of their layout and operation could give an indication of potential inefficiency, ineffectiveness or misuse.</p>
+
+<p>It might not be possible to investigate some aspects of the layout and operation of controls, particularly in more complex systems. However, enough of the important elements may be accessible for a brief examination.  The following important elements of a system’s controls should be assessed during an air conditioning inspection:</p>
+
+<ul>
+  <li>the set temperatures to which the treated spaces are to be conditioned</li>
+  <li>the time periods during which they are to be conditioned</li>
+  <li>the appropriateness of the control zones, control sensors and their locations</li>
+  <li>the potential for cooling to be operated at the same time as heating</li>
+  <li>the method of refrigeration capacity control</li>
+  <li>the method of air flow rate control</li>
+</ul>
+
+<p>Where systems are controlled by a building management system, it may be necessary for the building manager to arrange for the relevant information to be extracted from the building management system prior to the inspection.</p>
+
+<h4 id="documentation">Documentation</h4>
+
+<p>The quality, extent and accessibility of relevant information provided before an energy assessor inspects the system has important consequences for the effectiveness and cost of an air conditioning system inspection. Information about the air conditioning systems installed and their operation should be provided to the energy assessor in order for them to be able to carry out the most effective assessment of the system.  Incomplete or missing documentation not provided to an energy assessor could reduce the effectiveness of the assessment.  It could also increase the cost of the inspection by requiring the energy assessor to locate relevant documentation while on site.</p>
+
+<p>The energy assessor will ask the building owner or manager to provide a list of relevant records; for sight of the principal documents before the site visit; and for site records to be made readily available. Any available documentation must be provided prior to the inspection. This could include, for example, catalogue information and details provided during installation, commissioning and maintenance of the system.</p>
+
+<h4 id="maintenance">Maintenance</h4>
+
+<p>Evidence of any existing planned maintenance schedule or of other recent maintenance activities will be sought. Where documentation clearly shows that equipment and systems are already the subject of regular good practice checking and maintenance procedures, a number of aspects of the inspection and provision of advice may be reduced in scale or omitted.</p>
+
+<h4 id="advice-on-improvement-options">Advice on improvement options</h4>
+
+<p>a)	It is likely that an assessment will conclude that the energy efficiency of the system will fall into one of three categories:</p>
+
+<ul>
+  <li>systems where efficiency is clearly impaired due to faults, neglect or misuse</li>
+  <li>systems where efficiency is likely to be lower than current accepted minimum provisions due to aspects of design or use</li>
+  <li>systems that are acceptably efficient</li>
+</ul>
+
+<p>b)	There are three broad levels of advice that the building owner or manager may receive:</p>
+
+<ul>
+  <li>advice on the rectification of faults in the system that are impairing its efficiency as designed</li>
+  <li>improvement advice to bring existing systems broadly to a standard of ‘inherent’ efficiency consistent with the current minimum provisions of building regulations or standards</li>
+  <li>best practice improvement advice to raise standards even where systems are fully compliant with the current minimum provisions of building regulations or standards</li>
+</ul>
+
+<p>Given the need for simplicity and consistency, the inspection will mainly provide a combination of aspects of a) and b). However, best practice advice may be provided on a generalised basis by referring to other published guidance sources.</p>
+
+<p>A further category of advice which may also be given concerns some systems which may be older and operate with refrigerants which are being phased out, or may have their use and supply restricted under regulations relating to ozone depleting substances. In these cases, the energy assessor may give advice on possible options for future system adaptation to use other refrigerants or for complete replacement. This advice will need to be supplemented by a more detailed assessment when modifications or replacement are to be undertaken.</p>
+
+<p>More detailed information about the inspection process and good practice inspection and maintenance guidance can be found in the CIBSE TM44 guidance (or similar equivalent guidance).</p>
+
+<h2 id="consumer-protection-and-enforcement">Consumer protection and enforcement</h2>
+
+<h3 id="checking-the-authenticity-of-an-air-conditioning-inspection-report-or-an-energy-assessor">Checking the authenticity of an air conditioning inspection report or an energy assessor</h3>
+
+<p>An air conditioning inspection report must be produced by an accredited energy assessor. The energy assessor must make a copy of the air conditioning inspection report available to the building owner or manager, as soon as practicable after the inspection date, but only after the air conditioning inspection report has been lodged on the register. The energy assessor may also make a copy of the air conditioning inspection report available to the accreditation scheme of which they are a member.</p>
+
+<p>All energy assessors must be a member of an accreditation scheme. To check that an energy assessor is a member of an accreditation scheme a search facility is available on the <a rel="external" href="https://getting-new-energy-certificate.digital.communities.gov.uk/" class="govuk-link">register website</a>. If a person does not have access to the internet, they can ask the energy assessor for the name of the accreditation scheme of which they are a member and for their membership number. This information will enable the building owner or manager to confirm with the accreditation scheme that the energy assessor is accredited and fit and proper to practice as an air conditioning energy assessor.</p>
+
+<p>From 6 April 2012, it became a statutory requirement for the energy assessor to lodge all air conditioning inspection reports on the register.  To be valid, any air conditioning inspection report produced on or after this date must be lodged on the register.  When an air conditioning inspection report is lodged it will be allocated a unique report reference number. Air conditioning inspection reports produced before 6 April 2012 may have been lodged on the register on a voluntary basis. However, there is no statutory requirement for a valid air conditioning inspection report, produced before this date, to be lodged on the register retrospectively.</p>
+
+<p>Statutory lodgement was introduced to protect the consumer and to ensure that only accredited energy assessors can undertake inspections and prepare subsequent reports. Statutory lodgement enables the building owner or manager to verify the identity of the energy assessor and for accreditation schemes to monitor the standard of the air conditioning inspection reports which have been produced. Statutory lodgement also enables lost and mislaid air conditioning inspection reports to be replaced easily at no additional cost to the building owner or manager.</p>
+
+<p>The building owner or manager will be able to check the validity of the air conditioning inspection report by accessing an online copy of the air conditioning inspection report. A copy of the air conditioning inspection report can be downloaded from the register website using the report reference number.</p>
+
+<p>An air conditioning inspection report can also be downloaded from the register website using the building address, if the report reference number has been mislaid, unless the building owner has ‘opted out’ of making the report available in this way.</p>
+
+<h4 id="complaints">Complaints</h4>
+
+<p>Complaints about the availability or quality of an air conditioning inspection report or about an energy assessor who produced the air conditioning inspection report should be directed to the following:</p>
+
+<p><strong>Failure to secure an air conditioning inspection report</strong>: for complaints regarding the availability of an air conditioning inspection report, you should contact the building occupier or an authorised officer of the Local Weights and Measures Authority (usually a Trading Standards Officer). Trading Standards have the power to act on your complaint.</p>
+
+<p><strong>Quality or accuracy of the air conditioning inspection report and the recommendations</strong>: for complaints regarding the quality or accuracy of the air conditioning inspection report, in the first instance, you should contact the energy assessor who produced the air conditioning inspection report. If the assessor is no longer practising, or you are not satisfied with the response you have received, you should contact the accreditation scheme of the energy assessor who produced the air conditioning inspection report. Contact details of both the energy assessor and accreditation scheme can be found on the air conditioning inspection report.</p>
+
+<p><strong>Complaints regarding an energy assessor or any aspects of the assessment process</strong>: for complaints regarding the energy assessor or the assessment process you should contact, in the first instance, the energy assessor who produced the air conditioning inspection report. If the energy assessor is no longer practising, or you are not satisfied with the response you have received, you should contact the accreditation scheme of the energy assessor who produced the air conditioning inspection report. Contact details of both the energy assessor and accreditation scheme can be found on the air conditioning inspection report.</p>
+
+<p>The accreditation scheme must investigate the complaint and where necessary, provide the appropriate redress. Where it is found that the information on the air conditioning inspection report is wrong, a new air conditioning inspection report must be provided and the inaccurate air conditioning inspection report cancelled on the register. This procedure should be followed at no cost to the complainant. If a complaint cannot be resolved satisfactorily, the accreditation scheme will refer the matter to an independent third party for adjudication.</p>
+
+<p>If the building owner or manager suspects that the air conditioning inspection report has been produced fraudulently, then the matter should be referred to the police.</p>
+
+<h3 id="penalties-for-not-having-an-air-conditioning-inspection-report">Penalties for not having an air conditioning inspection report</h3>
+
+<p>Local Weights and Measures Authorities (usually Trading Standards Officers) are responsible for enforcing the requirements relating to air conditioning inspection reports. Failure to commission, keep, or provide an air conditioning inspection report when required by the regulations means that a penalty charge notice may be issued to those in breach of the requirements. Trading Standards Officers may act on complaints or undertake investigations. They may request that a copy of the air conditioning inspection report is provided to them. If requested, the building owner or manager must provide this information within seven days of the request being made or be liable to a penalty charge notice for failing to do so. A copy of an air conditioning inspection report can be requested by a Trading Standards Officer at any time up to six months after the last day for compliance with the obligation to make it available.</p>
+
+<p>The penalty for failing to have an air conditioning inspection report is fixed in the regulations and is currently £300.</p>
+
+<p>Occupiers of a building, where a central air conditioning system is under the control of the building owner or manager, would not be liable for a penalty charge for any breach of the duties.</p>
+
+<p>A further penalty can be issued for failure to provide a Trading Standards Officer with a copy of the air conditioning inspection report within seven days when requested to do so. The penalty is fixed at £200.</p>
+
+<p>If a penalty charge notice is issued, but that person believes it should not have been issued, they can request a review. If that person is not satisfied with the outcome of the review, they may appeal to the county court within 28 days after they are given notice confirming the penalty charge notice by the Local Weights and Measures Authority.</p>
+
+<p>If the building owner or manager wants to sell or let a building with an air conditioning system, which should have been inspected, then it is very likely that the legal advisors of the prospective tenant or buyer will require sight of the air conditioning inspection report during the legal processes prior to sale or let. Failure to have an air conditioning inspection report, where one is required, may have a negative impact on the transaction process.</p>
+
+<h2 id="annex-a-useful-information">Annex A: Useful information</h2>
+
+<h3 id="alphabetical-list-of-government-approved-energy-assessor-accreditation-schemes">Alphabetical list of government approved energy assessor accreditation schemes</h3>
+
+<p>Please note that only the accreditation schemes listed below will have accredited energy assessors who are approved to carry out air conditioning inspections.</p>
+
+<ul>
+  <li>
+    <p>Chartered Institution of Building Services Engineers (CIBSE)	<a rel="external" href="https://www.cibse.org/" class="govuk-link">www.cibse.org</a></p>
+  </li>
+  <li>
+    <p>Elmhurst Energy	<a rel="external" href="https://www.elmhurstenergy.co.uk/" class="govuk-link">www.elmhurstenergy.co.uk</a></p>
+  </li>
+  <li>
+    <p>Quidos	<a rel="external" href="https://www.quidos.co.uk/" class="govuk-link">www.quidos.co.uk</a></p>
+  </li>
+  <li>
+    <p>Sterling Accreditation	<a rel="external" href="http://www.sterlingaccreditation.com/" class="govuk-link">www.sterlingaccreditation.com</a></p>
+  </li>
+  <li>
+    <p>Stroma	<a rel="external" href="http://www.stroma.com/" class="govuk-link">www.stroma.com</a></p>
+  </li>
+</ul>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1" role="doc-endnote">
+      <p>All references to accreditation scheme in this guidance means a government approved air conditioning accreditation scheme. <a href="#fnref:1" class="govuk-link" role="doc-backlink" aria-label="go to where this is referenced">↩</a></p>
+    </li>
+  </ol>
+</div>
+</div>
+
+
+</div>
+</div>
+    </div>
+  </div>
+
+  <div class="govuk-grid-row">
+    <a class="govuk-link app-c-back-to-top dont-print" href="#contents">
+    <svg class="app-c-back-to-top__icon" xmlns="http://www.w3.org/2000/svg" width="13" height="17" viewbox="0 0 13 17" aria-hidden="true" focusable="false">
+      <path fill="currentColor" d="M6.5 0L0 6.5 1.4 8l4-4v12.7h2V4l4.3 4L13 6.4z"></path>
+    </svg>
+    Back to top
+</a>
+
+  </div>
+</div>
+
+
+    </main>
+  </div>
+
+      <div class="govuk-width-container">
+        
+<div class="gem-c-feedback govuk-!-display-none-print" data-module="feedback ga4-event-tracker">
+  <div class="gem-c-feedback__prompt gem-c-feedback__js-show js-prompt" tabindex="-1">
+  <div class="gem-c-feedback__prompt-content">
+    <div class="gem-c-feedback__prompt-questions js-prompt-questions" hidden>
+      <div class="gem-c-feedback__prompt-question-answer">
+        <h2 class="gem-c-feedback__prompt-question">Is this page useful?</h2>
+        <ul class="gem-c-feedback__option-list">
+          <li class="gem-c-feedback__option-list-item govuk-visually-hidden" hidden>
+            <a class="gem-c-feedback__prompt-link" data-track-category="yesNoFeedbackForm" data-track-action="ffMaybeClick" role="button" hidden="hidden" aria-hidden="true" href="/contact/govuk">
+              Maybe
+</a>          </li>
+          <li class="gem-c-feedback__option-list-item">
+            <button class="govuk-button gem-c-feedback__prompt-link js-page-is-useful" data-track-category="yesNoFeedbackForm" data-track-action="ffYesClick" data-ga4-event='{"event_name":"form_submit","type":"feedback","text":"Yes", "section": "Is this page useful?"}'>
+              Yes <span class="govuk-visually-hidden">this page is useful</span>
+            </button>
+          </li>
+          <li class="gem-c-feedback__option-list-item">
+            <button class="govuk-button gem-c-feedback__prompt-link js-toggle-form js-page-is-not-useful" data-track-category="yesNoFeedbackForm" data-track-action="ffNoClick" aria-controls="page-is-not-useful" aria-expanded="false" data-ga4-event='{"event_name":"form_submit","type":"feedback","text":"No", "section": "Is this page useful?"}'>
+              No <span class="govuk-visually-hidden">this page is not useful</span>
+            </button>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="gem-c-feedback__prompt-questions gem-c-feedback__prompt-success js-prompt-success" role="alert" hidden>
+      Thank you for your feedback
+    </div>
+
+    <div class="gem-c-feedback__prompt-questions gem-c-feedback__prompt-questions--something-is-wrong js-prompt-questions" hidden>
+      <button class="govuk-button gem-c-feedback__prompt-link js-toggle-form js-something-is-wrong" data-track-category="Onsite Feedback" data-track-action="GOV-UK Open Form" aria-controls="something-is-wrong" aria-expanded="false" data-ga4-event='{"event_name":"form_submit","type":"feedback","text":"Report a problem with this page", "section": "Is this page useful?"}'>
+        Report a problem with this page
+      </button>
+    </div>
+  </div>
+</div>
+
+  <form action="/contact/govuk/problem_reports" id="something-is-wrong" class="gem-c-feedback__form js-feedback-form" data-track-category="Onsite Feedback" data-track-action="GOV.UK Send Form" method="post" hidden>
+
+  <div class="govuk-grid-row">
+    <div class="govuk-grid-column-two-thirds">
+      <div class="gem-c-feedback__error-summary gem-c-feedback__js-show js-errors" tabindex="-1" hidden></div>
+
+      <input type="hidden" name="url" value="https://www.gov.uk/government/publications/air-conditioning-inspections-for-buildings/a-guide-to-air-conditioning-inspections">
+
+      <h3 class="gem-c-feedback__form-heading">Help us improve GOV.UK</h3>
+      <p id="feedback_explanation" class="gem-c-feedback__form-paragraph">Don’t include personal or financial information like your National Insurance number or credit card details.</p>
+
+      <div class="govuk-visually-hidden" aria-hidden="true">
+        <label for="giraffe">This field is for robots only. Please leave blank</label>
+        <input id="giraffe" name="giraffe" type="text" pattern=".{0}" tabindex="-1" autocomplete="off">
+      </div>
+
+      
+<div class="gem-c-textarea govuk-form-group govuk-!-margin-bottom-6">
+    
+  <label for="textarea-93f1641f" class="gem-c-label govuk-label">What were you doing?</label>
+
+
+
+
+
+  <textarea name="what_doing" class="govuk-textarea" id="textarea-93f1641f" rows="3" spellcheck="true" aria-describedby="feedback_explanation">
+</textarea>
+    
+</div>
+
+      
+<div class="gem-c-textarea govuk-form-group govuk-!-margin-bottom-6">
+    
+  <label for="textarea-bdce5f1b" class="gem-c-label govuk-label">What went wrong?</label>
+
+
+
+
+
+  <textarea name="what_wrong" class="govuk-textarea" id="textarea-bdce5f1b" rows="3" spellcheck="true">
+</textarea>
+    
+</div>
+
+      
+
+
+  <button class="gem-c-button govuk-button" type="submit" data-ga4-event='{"event_name":"form_submit","type":"feedback","text":"Send","section":"Help us improve GOV.UK"}'>Send</button>
+
+
+
+      <button class="govuk-button govuk-button--secondary gem-c-feedback__close gem-c-feedback__js-show js-close-form" data-track-category="Onsite Feedback" data-track-action="GOV.UK Close Form" aria-controls="something-is-wrong" aria-expanded="true">
+        Cancel
+      </button>
+    </div>
+  </div>
+</form>
+
+
+<script nonce="xyntenw/I3hkYuXkuqp0hg==">
+//<![CDATA[
+  document.addEventListener("DOMContentLoaded", function () {
+    var input = document.querySelector("#giraffe"),
+      form = document.querySelector("#something-is-wrong")
+
+    form.addEventListener("submit", spamCapture);
+
+    function spamCapture(e) {
+      if (input.value.length !== 0) return;
+      e.preventDefault();
+    }
+  });
+
+//]]>
+</script>
+  <form action="/contact/govuk/email-survey-signup" id="page-is-not-useful" class="gem-c-feedback__form gem-c-feedback__form--email gem-c-feedback__js-show js-feedback-form" data-track-category="yesNoFeedbackForm" data-track-action="Send Form" method="post">
+
+  <div class="govuk-grid-row">
+    <div class="govuk-grid-column-two-thirds" id="survey-wrapper">
+      <div class="gem-c-feedback__error-summary js-errors" tabindex="-1" hidden></div>
+
+      <input name="email_survey_signup[survey_id]" type="hidden" value="footer_satisfaction_survey">
+      <input name="email_survey_signup[survey_source]" type="hidden" value="/government/publications/air-conditioning-inspections-for-buildings/a-guide-to-air-conditioning-inspections">
+
+      <h3 class="gem-c-feedback__form-heading">Help us improve GOV.UK</h3>
+      <p id="survey_explanation" class="gem-c-feedback__form-paragraph">To help us improve GOV.UK, we’d like to know more about your visit today. We’ll send you a link to a feedback form. It will take only 2 minutes to fill in. Don’t worry we won’t send you spam or share your email address with anyone.</p>
+
+      
+<div class="govuk-form-group">
+
+            
+  <label for="input-d2c74665" class="gem-c-label govuk-label">Email address</label>
+
+
+
+
+
+
+
+    
+    <input aria-describedby="survey_explanation" autocomplete="email" class="gem-c-input govuk-input" id="input-d2c74665" name="email_survey_signup[email_address]" spellcheck="false" type="email">
+</div>
+
+      
+
+
+  <button class="gem-c-button govuk-button" type="submit" data-ga4-event='{"event_name":"form_submit","type":"feedback","text":"Send me the survey","section":"Help us improve GOV.UK"}'>Send me the survey</button>
+
+
+
+      <button class="govuk-button govuk-button--secondary gem-c-feedback__close js-close-form" data-track-category="yesNoFeedbackForm" data-track-action="ffFormClose" aria-controls="page-is-not-useful" aria-expanded="true" hidden>
+        Cancel
+      </button>
+
+    </div>
+  </div>
+</form>
+
+</div>
+
+      </div>
+
+      <footer class="gem-c-layout-footer govuk-footer gem-c-layout-footer--border" role="contentinfo" data-module="ga4-link-tracker">
+  <div class="govuk-width-container">
+      <div class="govuk-footer__navigation" data-module="gem-track-click" data-track-links-only>
+            <div class="govuk-grid-column-two-thirds govuk-!-display-none-print">
+              <h2 class="govuk-footer__heading govuk-heading-m">Topics</h2>
+                <ul class="govuk-footer__list govuk-footer__list--columns-2">
+                      <li class="govuk-footer__list-item">
+                        <a class="govuk-footer__link" data-track-category="footerClicked" data-track-action="topicsLink" data-track-label="/browse/benefits" data-track-options='{"dimension29":"Benefits"}' data-ga4-link='{"event_name":"navigation","type":"footer","index":{"index_link":"1","index_section":"1","index_section_count":"5"},"index_total":"16","section":"Topics"}' href="/browse/benefits">Benefits</a>
+                      </li>
+                      <li class="govuk-footer__list-item">
+                        <a class="govuk-footer__link" data-track-category="footerClicked" data-track-action="topicsLink" data-track-label="/browse/births-deaths-marriages" data-track-options='{"dimension29":"Births, death, marriages and care"}' data-ga4-link='{"event_name":"navigation","type":"footer","index":{"index_link":"2","index_section":"1","index_section_count":"5"},"index_total":"16","section":"Topics"}' href="/browse/births-deaths-marriages">Births, death, marriages and care</a>
+                      </li>
+                      <li class="govuk-footer__list-item">
+                        <a class="govuk-footer__link" data-track-category="footerClicked" data-track-action="topicsLink" data-track-label="/browse/business" data-track-options='{"dimension29":"Business and self-employed"}' data-ga4-link='{"event_name":"navigation","type":"footer","index":{"index_link":"3","index_section":"1","index_section_count":"5"},"index_total":"16","section":"Topics"}' href="/browse/business">Business and self-employed</a>
+                      </li>
+                      <li class="govuk-footer__list-item">
+                        <a class="govuk-footer__link" data-track-category="footerClicked" data-track-action="topicsLink" data-track-label="/browse/childcare-parenting" data-track-options='{"dimension29":"Childcare and parenting"}' data-ga4-link='{"event_name":"navigation","type":"footer","index":{"index_link":"4","index_section":"1","index_section_count":"5"},"index_total":"16","section":"Topics"}' href="/browse/childcare-parenting">Childcare and parenting</a>
+                      </li>
+                      <li class="govuk-footer__list-item">
+                        <a class="govuk-footer__link" data-track-category="footerClicked" data-track-action="topicsLink" data-track-label="/browse/citizenship" data-track-options='{"dimension29":"Citizenship and living in the UK"}' data-ga4-link='{"event_name":"navigation","type":"footer","index":{"index_link":"5","index_section":"1","index_section_count":"5"},"index_total":"16","section":"Topics"}' href="/browse/citizenship">Citizenship and living in the UK</a>
+                      </li>
+                      <li class="govuk-footer__list-item">
+                        <a class="govuk-footer__link" data-track-category="footerClicked" data-track-action="topicsLink" data-track-label="/browse/justice" data-track-options='{"dimension29":"Crime, justice and the law"}' data-ga4-link='{"event_name":"navigation","type":"footer","index":{"index_link":"6","index_section":"1","index_section_count":"5"},"index_total":"16","section":"Topics"}' href="/browse/justice">Crime, justice and the law</a>
+                      </li>
+                      <li class="govuk-footer__list-item">
+                        <a class="govuk-footer__link" data-track-category="footerClicked" data-track-action="topicsLink" data-track-label="/browse/disabilities" data-track-options='{"dimension29":"Disabled people"}' data-ga4-link='{"event_name":"navigation","type":"footer","index":{"index_link":"7","index_section":"1","index_section_count":"5"},"index_total":"16","section":"Topics"}' href="/browse/disabilities">Disabled people</a>
+                      </li>
+                      <li class="govuk-footer__list-item">
+                        <a class="govuk-footer__link" data-track-category="footerClicked" data-track-action="topicsLink" data-track-label="/browse/driving" data-track-options='{"dimension29":"Driving and transport"}' data-ga4-link='{"event_name":"navigation","type":"footer","index":{"index_link":"8","index_section":"1","index_section_count":"5"},"index_total":"16","section":"Topics"}' href="/browse/driving">Driving and transport</a>
+                      </li>
+                      <li class="govuk-footer__list-item">
+                        <a class="govuk-footer__link" data-track-category="footerClicked" data-track-action="topicsLink" data-track-label="/browse/education" data-track-options='{"dimension29":"Education and learning"}' data-ga4-link='{"event_name":"navigation","type":"footer","index":{"index_link":"9","index_section":"1","index_section_count":"5"},"index_total":"16","section":"Topics"}' href="/browse/education">Education and learning</a>
+                      </li>
+                      <li class="govuk-footer__list-item">
+                        <a class="govuk-footer__link" data-track-category="footerClicked" data-track-action="topicsLink" data-track-label="/browse/employing-people" data-track-options='{"dimension29":"Employing people"}' data-ga4-link='{"event_name":"navigation","type":"footer","index":{"index_link":"10","index_section":"1","index_section_count":"5"},"index_total":"16","section":"Topics"}' href="/browse/employing-people">Employing people</a>
+                      </li>
+                      <li class="govuk-footer__list-item">
+                        <a class="govuk-footer__link" data-track-category="footerClicked" data-track-action="topicsLink" data-track-label="/browse/environment-countryside" data-track-options='{"dimension29":"Environment and countryside"}' data-ga4-link='{"event_name":"navigation","type":"footer","index":{"index_link":"11","index_section":"1","index_section_count":"5"},"index_total":"16","section":"Topics"}' href="/browse/environment-countryside">Environment and countryside</a>
+                      </li>
+                      <li class="govuk-footer__list-item">
+                        <a class="govuk-footer__link" data-track-category="footerClicked" data-track-action="topicsLink" data-track-label="/browse/housing-local-services" data-track-options='{"dimension29":"Housing and local services"}' data-ga4-link='{"event_name":"navigation","type":"footer","index":{"index_link":"12","index_section":"1","index_section_count":"5"},"index_total":"16","section":"Topics"}' href="/browse/housing-local-services">Housing and local services</a>
+                      </li>
+                      <li class="govuk-footer__list-item">
+                        <a class="govuk-footer__link" data-track-category="footerClicked" data-track-action="topicsLink" data-track-label="/browse/tax" data-track-options='{"dimension29":"Money and tax"}' data-ga4-link='{"event_name":"navigation","type":"footer","index":{"index_link":"13","index_section":"1","index_section_count":"5"},"index_total":"16","section":"Topics"}' href="/browse/tax">Money and tax</a>
+                      </li>
+                      <li class="govuk-footer__list-item">
+                        <a class="govuk-footer__link" data-track-category="footerClicked" data-track-action="topicsLink" data-track-label="/browse/abroad" data-track-options='{"dimension29":"Passports, travel and living abroad"}' data-ga4-link='{"event_name":"navigation","type":"footer","index":{"index_link":"14","index_section":"1","index_section_count":"5"},"index_total":"16","section":"Topics"}' href="/browse/abroad">Passports, travel and living abroad</a>
+                      </li>
+                      <li class="govuk-footer__list-item">
+                        <a class="govuk-footer__link" data-track-category="footerClicked" data-track-action="topicsLink" data-track-label="/browse/visas-immigration" data-track-options='{"dimension29":"Visas and immigration"}' data-ga4-link='{"event_name":"navigation","type":"footer","index":{"index_link":"15","index_section":"1","index_section_count":"5"},"index_total":"16","section":"Topics"}' href="/browse/visas-immigration">Visas and immigration</a>
+                      </li>
+                      <li class="govuk-footer__list-item">
+                        <a class="govuk-footer__link" data-track-category="footerClicked" data-track-action="topicsLink" data-track-label="/browse/working" data-track-options='{"dimension29":"Working, jobs and pensions"}' data-ga4-link='{"event_name":"navigation","type":"footer","index":{"index_link":"16","index_section":"1","index_section_count":"5"},"index_total":"16","section":"Topics"}' href="/browse/working">Working, jobs and pensions</a>
+                      </li>
+                </ul>
+            </div>
+            <div class="govuk-grid-column-one-third govuk-!-display-none-print">
+              <h2 class="govuk-footer__heading govuk-heading-m">Government activity</h2>
+                <ul class="govuk-footer__list govuk-footer__list--columns-1">
+                      <li class="govuk-footer__list-item">
+                        <a class="govuk-footer__link" data-track-category="footerClicked" data-track-action="governmentactivityLink" data-track-label="/government/organisations" data-track-options='{"dimension29":"Departments"}' data-ga4-link='{"event_name":"navigation","type":"footer","index":{"index_link":"1","index_section":"2","index_section_count":"5"},"index_total":"8","section":"Government activity"}' href="/government/organisations">Departments</a>
+                      </li>
+                      <li class="govuk-footer__list-item">
+                        <a class="govuk-footer__link" data-track-category="footerClicked" data-track-action="governmentactivityLink" data-track-label="/search/news-and-communications" data-track-options='{"dimension29":"News"}' data-ga4-link='{"event_name":"navigation","type":"footer","index":{"index_link":"2","index_section":"2","index_section_count":"5"},"index_total":"8","section":"Government activity"}' href="/search/news-and-communications">News</a>
+                      </li>
+                      <li class="govuk-footer__list-item">
+                        <a class="govuk-footer__link" data-track-category="footerClicked" data-track-action="governmentactivityLink" data-track-label="/search/guidance-and-regulation" data-track-options='{"dimension29":"Guidance and regulation"}' data-ga4-link='{"event_name":"navigation","type":"footer","index":{"index_link":"3","index_section":"2","index_section_count":"5"},"index_total":"8","section":"Government activity"}' href="/search/guidance-and-regulation">Guidance and regulation</a>
+                      </li>
+                      <li class="govuk-footer__list-item">
+                        <a class="govuk-footer__link" data-track-category="footerClicked" data-track-action="governmentactivityLink" data-track-label="/search/research-and-statistics" data-track-options='{"dimension29":"Research and statistics"}' data-ga4-link='{"event_name":"navigation","type":"footer","index":{"index_link":"4","index_section":"2","index_section_count":"5"},"index_total":"8","section":"Government activity"}' href="/search/research-and-statistics">Research and statistics</a>
+                      </li>
+                      <li class="govuk-footer__list-item">
+                        <a class="govuk-footer__link" data-track-category="footerClicked" data-track-action="governmentactivityLink" data-track-label="/search/policy-papers-and-consultations" data-track-options='{"dimension29":"Policy papers and consultations"}' data-ga4-link='{"event_name":"navigation","type":"footer","index":{"index_link":"5","index_section":"2","index_section_count":"5"},"index_total":"8","section":"Government activity"}' href="/search/policy-papers-and-consultations">Policy papers and consultations</a>
+                      </li>
+                      <li class="govuk-footer__list-item">
+                        <a class="govuk-footer__link" data-track-category="footerClicked" data-track-action="governmentactivityLink" data-track-label="/search/transparency-and-freedom-of-information-releases" data-track-options='{"dimension29":"Transparency"}' data-ga4-link='{"event_name":"navigation","type":"footer","index":{"index_link":"6","index_section":"2","index_section_count":"5"},"index_total":"8","section":"Government activity"}' href="/search/transparency-and-freedom-of-information-releases">Transparency</a>
+                      </li>
+                      <li class="govuk-footer__list-item">
+                        <a class="govuk-footer__link" data-track-category="footerClicked" data-track-action="governmentactivityLink" data-track-label="/government/how-government-works" data-track-options='{"dimension29":"How government works"}' data-ga4-link='{"event_name":"navigation","type":"footer","index":{"index_link":"7","index_section":"2","index_section_count":"5"},"index_total":"8","section":"Government activity"}' href="/government/how-government-works">How government works</a>
+                      </li>
+                      <li class="govuk-footer__list-item">
+                        <a class="govuk-footer__link" data-track-category="footerClicked" data-track-action="governmentactivityLink" data-track-label="/government/get-involved" data-track-options='{"dimension29":"Get involved"}' data-ga4-link='{"event_name":"navigation","type":"footer","index":{"index_link":"8","index_section":"2","index_section_count":"5"},"index_total":"8","section":"Government activity"}' href="/government/get-involved">Get involved</a>
+                      </li>
+                </ul>
+            </div>
+      </div>
+
+      <hr class="govuk-footer__section-break">
+    <div class="govuk-footer__meta">
+      <div class="govuk-footer__meta-item govuk-footer__meta-item--grow">
+          <h2 class="govuk-visually-hidden">Support links</h2>
+          <ul class="govuk-footer__inline-list govuk-!-display-none-print" data-module="gem-track-click" data-track-links-only>
+              <li class="govuk-footer__inline-list-item">
+                <a class="govuk-footer__link" data-track-category="footerClicked" data-track-action="supportLink" data-track-label="/help" data-track-options='{"dimension29":"Help"}' data-ga4-link='{"event_name":"navigation","type":"footer","index":{"index_link":"1","index_section":"3","index_section_count":"5"},"index_total":"8","section":"Support links"}' href="/help">Help</a>
+              </li>
+              <li class="govuk-footer__inline-list-item">
+                <a class="govuk-footer__link" data-track-category="footerClicked" data-track-action="supportLink" data-track-label="/help/privacy-notice" data-track-options='{"dimension29":"Privacy"}' data-ga4-link='{"event_name":"navigation","type":"footer","index":{"index_link":"2","index_section":"3","index_section_count":"5"},"index_total":"8","section":"Support links"}' href="/help/privacy-notice">Privacy</a>
+              </li>
+              <li class="govuk-footer__inline-list-item">
+                <a class="govuk-footer__link" data-track-category="footerClicked" data-track-action="supportLink" data-track-label="/help/cookies" data-track-options='{"dimension29":"Cookies"}' data-ga4-link='{"event_name":"navigation","type":"footer","index":{"index_link":"3","index_section":"3","index_section_count":"5"},"index_total":"8","section":"Support links"}' href="/help/cookies">Cookies</a>
+              </li>
+              <li class="govuk-footer__inline-list-item">
+                <a class="govuk-footer__link" data-track-category="footerClicked" data-track-action="supportLink" data-track-label="/help/accessibility-statement" data-track-options='{"dimension29":"Accessibility statement"}' data-ga4-link='{"event_name":"navigation","type":"footer","index":{"index_link":"4","index_section":"3","index_section_count":"5"},"index_total":"8","section":"Support links"}' href="/help/accessibility-statement">Accessibility statement</a>
+              </li>
+              <li class="govuk-footer__inline-list-item">
+                <a class="govuk-footer__link" data-track-category="footerClicked" data-track-action="supportLink" data-track-label="/contact" data-track-options='{"dimension29":"Contact"}' data-ga4-link='{"event_name":"navigation","type":"footer","index":{"index_link":"5","index_section":"3","index_section_count":"5"},"index_total":"8","section":"Support links"}' href="/contact">Contact</a>
+              </li>
+              <li class="govuk-footer__inline-list-item">
+                <a class="govuk-footer__link" data-track-category="footerClicked" data-track-action="supportLink" data-track-label="/help/terms-conditions" data-track-options='{"dimension29":"Terms and conditions"}' data-ga4-link='{"event_name":"navigation","type":"footer","index":{"index_link":"6","index_section":"3","index_section_count":"5"},"index_total":"8","section":"Support links"}' href="/help/terms-conditions">Terms and conditions</a>
+              </li>
+              <li class="govuk-footer__inline-list-item">
+                <a class="govuk-footer__link" lang="cy" data-track-category="footerClicked" data-track-action="supportLink" data-track-label="/cymraeg" data-track-options='{"dimension29":"Rhestr o Wasanaethau Cymraeg"}' data-ga4-link='{"event_name":"navigation","type":"footer","index":{"index_link":"7","index_section":"3","index_section_count":"5"},"index_total":"8","section":"Support links"}' href="/cymraeg">Rhestr o Wasanaethau Cymraeg</a>
+              </li>
+              <li class="govuk-footer__inline-list-item">
+                <a class="govuk-footer__link" data-track-category="footerClicked" data-track-action="supportLink" data-track-label="/government/organisations/government-digital-service" data-track-options='{"dimension29":"Government Digital Service"}' data-ga4-link='{"event_name":"navigation","type":"footer","index":{"index_link":"8","index_section":"3","index_section_count":"5"},"index_total":"8","section":"Support links"}' href="/government/organisations/government-digital-service">Government Digital Service</a>
+              </li>
+          </ul>
+        <svg aria-hidden="true" focusable="false" class="govuk-footer__licence-logo" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 483.2 195.7" height="17" width="41">
+          <path fill="currentColor" d="M421.5 142.8V.1l-50.7 32.3v161.1h112.4v-50.7zm-122.3-9.6A47.12 47.12 0 0 1 221 97.8c0-26 21.1-47.1 47.1-47.1 16.7 0 31.4 8.7 39.7 21.8l42.7-27.2A97.63 97.63 0 0 0 268.1 0c-36.5 0-68.3 20.1-85.1 49.7A98 98 0 0 0 97.8 0C43.9 0 0 43.9 0 97.8s43.9 97.8 97.8 97.8c36.5 0 68.3-20.1 85.1-49.7a97.76 97.76 0 0 0 149.6 25.4l19.4 22.2h3v-87.8h-80l24.3 27.5zM97.8 145c-26 0-47.1-21.1-47.1-47.1s21.1-47.1 47.1-47.1 47.2 21 47.2 47S123.8 145 97.8 145"></path>
+        </svg>
+        <span class="govuk-footer__licence-description" data-module="gem-track-click" data-track-action="copyrightLink" data-track-category="footerClicked" data-track-label="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/" data-track-options='{"dimension29": "Open Government Licence v3.0"}' data-track-links-only data-ga4-track-links-only data-ga4-link='{"event_name":"navigation","section":"Licence","index":{"index_section":"4","index_link":"1","index_section_count":"5"},"text":"Open Government Licence v3.0","index_total":"1","type":"footer"}'>
+          All content is available under the <a class="govuk-footer__link" href="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/" rel="license">Open Government Licence v3.0</a>, except where otherwise stated
+        </span>
+      </div>
+      <div class="govuk-footer__meta-item" data-module="gem-track-click" data-track-action="copyrightLink" data-track-category="footerClicked" data-track-label="https://www.nationalarchives.gov.uk/information-management/re-using-public-sector-information/uk-government-licensing-framework/crown-copyright/" data-track-options='{"dimension29": "© Crown copyright"}' data-track-links-only data-ga4-link='{"event_name":"navigation","section":"Copyright","index":{"index_section":"5","index_link":"1","index_section_count":"5"},"text":"© Crown copyright","index_total":"1","type":"footer"}'>
+        <a class="govuk-footer__link govuk-footer__copyright-logo" href="https://www.nationalarchives.gov.uk/information-management/re-using-public-sector-information/uk-government-licensing-framework/crown-copyright/">© Crown copyright</a>
+      </div>
+    </div>
+  </div>
+</footer>
+    <script src="/assets/static/application-552bcc46f397538d6eec353a0eb617556364aac48b43a258be0d93d454531264.js"></script>
+<script src="/assets/government-frontend/application-fbbbef7e4b85e9348b9a5f176743a095188c4c03b4a27c81eb37b24079d14006.js"></script><script type="application/ld+json">
+  {
+  "@context": "http://schema.org",
+  "@type": "FAQPage",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.gov.uk/government/publications/air-conditioning-inspections-for-buildings/a-guide-to-air-conditioning-inspections"
+  },
+  "name": "A guide to air conditioning inspections in buildings",
+  "datePublished": "2020-12-28T00:15:03.000Z",
+  "dateModified": "2020-12-21T16:29:29.000Z",
+  "text": null,
+  "publisher": {
+    "@type": "Organization",
+    "name": "GOV.UK",
+    "url": "https://www.gov.uk",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.gov.uk/assets/government-frontend/govuk_publishing_components/govuk-logo-73b5a4056ffe9988d02c728b56fe9fe7f90bb822322a5f6183ccbb92a99b019a.png"
+    }
+  },
+  "image": [
+    "https://www.gov.uk/assets/government-frontend/govuk_publishing_components/govuk-schema-placeholder-1x1-bf9e64d759af6dfd93bede8168f3087a329f405b382aff36747db0db4b7b23e9.png",
+    "https://www.gov.uk/assets/government-frontend/govuk_publishing_components/govuk-schema-placeholder-4x3-13093f053c15f613acd827aff27cac83d3fab452947cbcae4c7b706dadf2f7f2.png",
+    "https://www.gov.uk/assets/government-frontend/govuk_publishing_components/govuk-schema-placeholder-16x9-4233cd42671827e266e284c4d5ae68fb600bd9f9e35dda663ccabbc2b6ab7ec3.png"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Department for Levelling Up, Housing and Communities ",
+    "url": "https://www.gov.uk/government/organisations/department-for-levelling-up-housing-and-communities"
+  },
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Introduction",
+      "url": "https://www.gov.uk/government/publications/air-conditioning-inspections-for-buildings/a-guide-to-air-conditioning-inspections#introduction",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "url": "https://www.gov.uk/government/publications/air-conditioning-inspections-for-buildings/a-guide-to-air-conditioning-inspections#introduction",
+        "text": "\u003cp\u003eThis guidance is intended to help anyone who manages or controls an air conditioning system to understand their obligations under the \u003ca rel=\"external\" href=\"https://www.legislation.gov.uk/uksi/2020/1422/contents/made\" class=\"govuk-link\"\u003eEnergy Performance of Buildings (England and Wales) Regulations 2012\u003c/a\u003e, as amended in 2020 (the EPB regulations). This guidance aims to explain how the EPB regulations work in practice, how they should be applied, what your responsibilities are and when air conditioning inspections are required.\u003c/p\u003e\u003cp\u003eWhile this guidance aims to explain how the requirements will work in practice, any interpretation of the regulations is offered only as a guide. The Ministry of Housing, Communities and Local Government (MHCLG) cannot provide legal advice. Therefore, it is important to read and understand the regulations and for individuals themselves to take a view on whether their systems fall within the requirements of the regulations. In cases of doubt independent legal advice should be sought.\u003c/p\u003e\u003cp\u003eThis guidance does not address other statutory inspection requirements, such as those which cover health and safety requirements, nor does it cover inspection under the Fluorinated Greenhouse Gas Regulations and associated requirements, which are outside the remit of the EPB Regulations.\u003c/p\u003e\u003cp\u003eThis guidance incorporates extracts from the Chartered Institution of Building Services Engineers (CIBSE), ‘\u003ca rel=\"external\" href=\"https://www.cibse.org/knowledge/knowledge-items/detail?id=a0q20000008I7etAAC\" class=\"govuk-link\"\u003eTM44: Inspection of air conditioning systems: a guide to EPBD compliance\u003c/a\u003e’ (CIBSE TM44 guidance), with the permission of CIBSE, which describes the appropriate assessment methodology.\u003c/p\u003e\u003cp\u003eThis document is part of a suite of documents that explains the requirements for energy performance certificates (EPCs), display energy certificates (DECs) and air conditioning inspections in England and Wales only. Buildings in Northern Ireland and Scotland are subject to separate regulatory requirements and are not covered by or referred to in this guidance.\u003c/p\u003e"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Air conditioning inspection requirements",
+      "url": "https://www.gov.uk/government/publications/air-conditioning-inspections-for-buildings/a-guide-to-air-conditioning-inspections#air-conditioning-inspection-requirements",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "url": "https://www.gov.uk/government/publications/air-conditioning-inspections-for-buildings/a-guide-to-air-conditioning-inspections#air-conditioning-inspection-requirements",
+        "text": "\u003ch3 id=\"why-air-conditioning-inspections-are-required\"\u003eWhy air conditioning inspections are required?\u003c/h3\u003e\u003cp\u003eAn air conditioning system inspection by an accredited air conditioning energy assessor (the energy assessor) is designed to improve efficiency, reduce energy consumption, reduce operating costs and reduce carbon emissions. The energy assessor will highlight how the operation of existing systems can be improved or opportunities to replace older, less energy efficient systems, or oversized systems, with new energy efficient systems.\u003c/p\u003e\u003cp\u003eAs the replacement of refrigerant is restricted in older systems (as established in other legislation), there is an additional incentive to improve or replace older systems with more modern energy efficient units.\u003c/p\u003e\u003cp\u003eThe person who controls the operation of the system, such as the building owner or manager, has statutory obligations and duties of care related to the operation and maintenance of air conditioning systems. The inspections referred to in this guide are in addition to the standard activities associated with the ownership and operation of air conditioning systems.\u003c/p\u003e\u003cp\u003eInspection, maintenance and cleaning programmes maintain the ability of the system to provide healthy and comfortable environments for building occupants, limiting the escape of refrigerant gases and ensuring the safety of equipment. The practices and procedures needed to achieve these aims should be applied more frequently than the assessment for energy efficiency described here. It is outside the scope of this document to describe these procedures in detail.\u003c/p\u003e\u003ch3 id=\"when-air-conditioning-inspections-are-required\"\u003eWhen air conditioning inspections are required?\u003c/h3\u003e\u003cp\u003eAll air conditioning systems with an effective rated output of more than 12kW must be regularly inspected by an energy assessor. The inspections must be no more than five years apart.\u003c/p\u003e\u003cp\u003eThe regulations require the first inspection of air conditioning systems in scope to be carried out as follows:\u003c/p\u003e\u003cul\u003e\n  \u003cli\u003efor all systems first put into service on or after 1 January 2008, the first inspection must have taken place within five years of the date when the system was first put into service\u003c/li\u003e\n  \u003cli\u003efor other air conditioning systems, where the effective rated output is more than 250kW, the first inspection must have taken place by 4 January 2009\u003c/li\u003e\n  \u003cli\u003efor other air conditioning systems, where the effective rated output is more than 12kW, the first inspection must have taken place by 4 January 2011\u003c/li\u003e\n\u003c/ul\u003e\u003ch3 id=\"which-systems-require-an-air-conditioning-inspection\"\u003eWhich systems require an air conditioning inspection?\u003c/h3\u003e\u003cp\u003eOnly air conditioning systems with an effective rated output of more than 12kW are affected by these regulations. This will include systems consisting of individual units which are less than 12kW, but whose combined effective rated output is more than 12kW.\u003c/p\u003e\u003cp\u003eThe effective rated output is the maximum calorific output in kW stated by the manufacturer of the system as delivered during continuous operation while complying with the useful efficiency indicated by the manufacturer.\u003c/p\u003e\u003cp\u003eOne or more air conditioning units within a building controlled by a single person are considered to comprise a single air conditioning system for the purposes of the regulations.\u003c/p\u003e\u003cp\u003e‘Air conditioning system’ means a combination of all components required to provide a form of air treatment in which the temperature is controlled or can be lowered; and includes systems which combine such air treatment with the control of ventilation, humidity and air cleanliness. (As defined in \u003ca rel=\"external\" href=\"https://www.legislation.gov.uk/uksi/2012/3118/made\" class=\"govuk-link\"\u003eThe Energy Performance of Buildings (England and Wales) Regulations 2012 (as amended)\u003c/a\u003e). This guidance is intended to cover any air conditioning system where refrigeration is used to provide cooling for the comfort of the occupants of the building.\u003c/p\u003e\u003cp\u003eThere is no exemption within the regulations which restricts the inspection and maintenance of systems to those purely for the comfort of occupants. Refrigeration provided solely for process applications, such as cold stores and pharmaceutical production, can be inspected. However, this guidance is not intended to cover dedicated process cooling systems.\u003c/p\u003e"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Fluorinated greenhouse gas inspections",
+      "url": "https://www.gov.uk/government/publications/air-conditioning-inspections-for-buildings/a-guide-to-air-conditioning-inspections#fluorinated-greenhouse-gas-inspections",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "url": "https://www.gov.uk/government/publications/air-conditioning-inspections-for-buildings/a-guide-to-air-conditioning-inspections#fluorinated-greenhouse-gas-inspections",
+        "text": "\u003cp\u003eFluorinated greenhouse gases (F-gases) are powerful greenhouse gases, with environmental impacts many times greater than that of carbon dioxide. F-gases replaced ozone depleting substances, which are now entirely banned except in very limited circumstances. The most common types of F-gases are hydrofluorocarbons (HFCs), which are often used as the refrigerant in air conditioning systems.\u003c/p\u003e\u003cp\u003eA phase-down of HFC use was introduced by the Kigali Amendment to the United Nations Montreal Protocol in 2016. The Amendment requires an 85% reduction in HFC use by 2036. The EU and UK meet their Kigali obligations through the EU F-gas Regulation 517/2014.  After the end of the EU Exit Transition Period, the F-gas Regulation and its supplemental legislation will be retained in domestic law as it applies to Great Britain, with Northern Ireland remaining within, and subject to, the EU’s F-gas system and legislation.\u003c/p\u003e\u003cp\u003eAlongside provisions for the reduction in HFC use, the F-gas Regulation sets out a framework of obligations to minimise the risk of emissions. This includes maintenance, regular leak checking and repair requirements for equipment containing F-gases, such as air conditioning systems, as well as training and certification requirements for technicians and companies that work on them. Further \u003ca href=\"https://www.gov.uk/government/collections/fluorinated-gas-f-gas-guidance-for-users-producers-and-traders\" class=\"govuk-link\"\u003einformation on F-gas obligations\u003c/a\u003e can be found on the Department for Environment, Food and Rural Affairs (Defra) website.\u003c/p\u003e"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Air conditioning inspection reports",
+      "url": "https://www.gov.uk/government/publications/air-conditioning-inspections-for-buildings/a-guide-to-air-conditioning-inspections#air-conditioning-inspection-reports",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "url": "https://www.gov.uk/government/publications/air-conditioning-inspections-for-buildings/a-guide-to-air-conditioning-inspections#air-conditioning-inspection-reports",
+        "text": "\u003ch3 id=\"what-advice-can-i-expect-to-receive-from-the-air-conditioning-report\"\u003eWhat advice can I expect to receive from the air conditioning report?\u003c/h3\u003e\u003cp\u003eThe purpose of the air conditioning inspection report is to ensure that the building owner or manager is provided with information regarding the efficiency of the air conditioning systems that they control, together with advice on how to improve the energy efficiency of the system, to identify opportunities to save energy and carbon and to reduce operating costs.\u003c/p\u003e\u003cp\u003eThe air conditioning inspection report will include at least the following details:\u003c/p\u003e\u003cul\u003e\n  \u003cli\u003ethe likely efficiency of the system and any suggestions for improvement\u003c/li\u003e\n  \u003cli\u003eany faults identified during the inspection and suggested actions\u003c/li\u003e\n  \u003cli\u003ethe adequacy of equipment maintenance and any suggestions for improvement\u003c/li\u003e\n  \u003cli\u003ethe adequacy of the installed controls and control settings and any suggestions for improvement\u003c/li\u003e\n  \u003cli\u003ethe current size of the installed system in relation to the cooling load and any suggestions for improvement\u003c/li\u003e\n  \u003cli\u003econsideration of the capabilities of the system to optimise its performance under typical operating conditions\u003c/li\u003e\n  \u003cli\u003ea summary of the findings and the key recommendations\u003c/li\u003e\n\u003c/ul\u003e\u003cp\u003eThere is no legal requirement to act on the recommendations. However, acting on the advice and key recommendations in the air conditioning inspection report and rectifying faults, or making the appropriate improvements, where this is attractive and cost effective, will contribute to the efficient running of air conditioning systems. It will also reduce carbon emissions and the operating costs for the building occupants.\u003c/p\u003e\u003cp\u003eIn some cases, the costs of providing both heating and cooling may be reduced, where these two systems are in use at the same time unnecessarily, due to inappropriate control or settings. In many cases, it will be clear that the building and its system are already well-understood, documented and commissioned, with records available showing that the equipment has been regularly maintained to a good standard.\u003c/p\u003e\u003cp\u003eIn such cases, the scope of an inspection could be reduced and the air conditioning inspection report brief, with the main content advising on opportunities for load reduction or alternative solutions not previously considered. In other cases, the energy assessor may find it necessary to suggest relatively basic maintenance, such as cleaning or repairs to equipment whose efficiency has evidently suffered through neglect.\u003c/p\u003e\u003cp\u003eCleaning operations or adjustments to controls do not form part of the inspection procedure, even where they might be carried out simply and with significant immediate effect to improve efficiency. The inspection is not intended, or expected, to involve any physical work of this nature as this could change the level of professional risk to the energy assessor. Authority to carry out this work would be needed in a separate arrangement with the energy assessor, provided they have the necessary competence to do this work. However, the building owner or manager may well be able to carry out some alterations themselves as the inspection is carried out, provided they agree with the energy assessor’s observations.\u003c/p\u003e\u003cp\u003eMost air conditioning inspection reports are likely to contain advice with a combination of simple low or no cost measures and measures where some investment may be required to apply the measures, or to investigate the potential of applying measures. The building owner or manager should also be provided with access to, or informed about how to obtain advice on the ongoing management of the systems.\u003c/p\u003e\u003ch3 id=\"what-other-information-does-the-air-conditioning-inspection-report-contain\"\u003eWhat other information does the air conditioning inspection report contain?\u003c/h3\u003e\u003cp\u003eThe air conditioning inspection report must include, but is not limited to, the following information:\u003c/p\u003e\u003cul\u003e\n  \u003cli\u003ethe address of the building in which the system is located\u003c/li\u003e\n  \u003cli\u003ethe name of the accredited energy assessor\u003c/li\u003e\n  \u003cli\u003ethe name and address of the energy assessor’s employer, or the name under which a self-employed assessor trades and his address\u003c/li\u003e\n  \u003cli\u003ethe date on which the inspection occurred\u003c/li\u003e\n  \u003cli\u003ethe name of the government approved air conditioning accreditation scheme\u003csup id=\"fnref:1\" role=\"doc-noteref\"\u003e\u003ca href=\"#fn:1\" class=\"govuk-link\" rel=\"footnote\"\u003e[footnote 1]\u003c/a\u003e\u003c/sup\u003e of which the accredited energy assessor is a member\u003c/li\u003e\n\u003c/ul\u003e\u003cp\u003eAll air conditioning inspection reports produced on or after the 6 April 2012 must contain a valid reference number. This number can only be generated once the air conditioning inspection report has been lodged on the Energy Performance of Buildings Register (“the register”).\u003c/p\u003e"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Obtaining an air conditioning inspection",
+      "url": "https://www.gov.uk/government/publications/air-conditioning-inspections-for-buildings/a-guide-to-air-conditioning-inspections#obtaining-an-air-conditioning-inspection",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "url": "https://www.gov.uk/government/publications/air-conditioning-inspections-for-buildings/a-guide-to-air-conditioning-inspections#obtaining-an-air-conditioning-inspection",
+        "text": "\u003ch3 id=\"who-is-responsible-for-ensuring-an-inspection-is-completed\"\u003eWho is responsible for ensuring an inspection is completed?\u003c/h3\u003e\u003cp\u003eThe person who controls the operation of an air conditioning system must:\u003c/p\u003e\u003cul\u003e\n  \u003cli\u003eensure an inspection has been done in accordance with the requirements and timetable of the regulations\u003c/li\u003e\n  \u003cli\u003ekeep the most recent air conditioning inspection report provided by an energy assessor\u003c/li\u003e\n  \u003cli\u003egive any air conditioning inspection report to any person taking over responsibilities with respect to the control of the air conditioning system\u003c/li\u003e\n\u003c/ul\u003e\u003cp\u003eIf the control of an air conditioning system is passed to another person and that person has not been given an air conditioning inspection report by the previous operator of the system, the system must be inspected within three months of the new operator taking over control of the system.\u003c/p\u003e\u003ch3 id=\"who-controls-an-air-conditioning-system\"\u003eWho controls an air conditioning system?\u003c/h3\u003e\u003cp\u003eThe person who controls the operation of the system is regarded as the person who controls the technical functioning of the system, not someone who does no more than adjust the temperature or whose only responsibility is to adjust the controls.\u003c/p\u003e\u003cp\u003eThe owner of the system will usually control the operation of the system even where day-to-day operation is contracted out to another person or organisation. Where the occupier of the building takes total responsibility for a building and its services (e.g. full repairing and insuring lease), then the occupier will control the system.\u003c/p\u003e\u003cp\u003eWhere the operation and management of the system is carried out on a day-to-day facilities management basis, or a servicing company provides routine servicing and maintenance, the contract may specify the facilities management, or servicing company, as the controller of the system with responsibility for ensuring that inspections are carried out. Depending on the terms of the contract the facilities management or servicing company may become responsible under the regulations also. In such cases, however, the landlord or building occupier retains a parallel duty to ensure that an air conditioning system has been inspected.\u003c/p\u003e\u003cp\u003eWhere air conditioning systems are installed locally by the building occupier, the responsibility will lie with the occupier as they own the system.\u003c/p\u003e\u003ch3 id=\"who-can-inspect-air-conditioning-systems\"\u003eWho can inspect air conditioning systems?\u003c/h3\u003e\u003cp\u003eAn inspection of an air conditioning system must be carried out by an \u003ca href=\"https://www.gov.uk/get-your-air-conditioning-system-inspected\" class=\"govuk-link\"\u003eenergy assessor\u003c/a\u003e who is a current member of an accreditation scheme. The energy assessor must make a copy of the air conditioning inspection report available to the building owner or manager, or to the person who controls the operation of the system, as soon as practicable after the inspection date, but only after the air conditioning inspection report is entered on the register. Only air conditioning inspection reports which have been produced and lodged on the register by accredited energy assessors are valid reports.\u003c/p\u003e\u003cp\u003eIn certain circumstances, data gatherers, working under the supervision of the energy assessor, enable the energy assessor to produce the air conditioning inspection reports for larger and sometimes more complex buildings and portfolios of buildings. Data gatherers must have a contractual relationship with an energy assessor, or the company employing the energy assessor, to provide professional assistance to gather the information needed to carry out an energy assessment of a building for the purpose of issuing an air conditioning inspection report. The energy assessor must be able to verify the data and supervise how and by whom it is collected. For the purposes of effective quality control and assurance, the energy assessor must not sanction any practice that is contrary to the quality of the air conditioning inspection report. MHCLG has provided accreditation schemes with guidance on this issue.\u003c/p\u003e\u003ch3 id=\"who-is-responsible-for-monitoring-the-work-of-energy-assessors\"\u003eWho is responsible for monitoring the work of energy assessors?\u003c/h3\u003e\u003cp\u003eAccreditation schemes (Annex A) are responsible for managing energy assessors and for quality-assuring air conditioning inspection reports produced by their energy assessors. Accreditation schemes must ensure that energy assessors are competent and possess the appropriate skills to conduct energy assessments.\u003c/p\u003e\u003cp\u003eTo become a member of an accreditation scheme, the energy assessor will need to:\u003c/p\u003e\u003cul\u003e\n  \u003cli\u003edemonstrate their competence, either by having a recognised qualification from an awarding body, or approved prior experience and learning equivalent, to the national occupational standard requirements\u003c/li\u003e\n  \u003cli\u003emaintain appropriate professional indemnity cover\u003c/li\u003e\n  \u003cli\u003eupdate their skills and knowledge regularly\u003c/li\u003e\n  \u003cli\u003eparticipate in the accreditation schemes’ quality assurance procedures\u003c/li\u003e\n  \u003cli\u003eabide by accreditation scheme advice and guidance\u003c/li\u003e\n\u003c/ul\u003e\u003ch3 id=\"am-i-required-to-keep-the-air-conditioning-inspection-report\"\u003eAm I required to keep the air conditioning inspection report?\u003c/h3\u003e\u003cp\u003eThe air conditioning inspection report must be kept in a safe place so that it can be used to inform subsequent inspections or passed to a new system owner or manager. The air conditioning inspection report should be kept with maintenance and/or other energy records, for example, in a building log book.\u003c/p\u003e\u003cp\u003eNewer buildings may already be provided with a building log book satisfying the requirements of Part L of the Building Regulations to provide the building owner or manager with information about the building, its fixed services and their maintenance requirements.  The building log book would normally be the most suitable place to keep records of the air conditioning inspection, together with other such inspection results e.g. fluorinated greenhouse gas inspections.  Where a log book does not exist, it would be useful to keep air conditioning inspection records in a relevant section of the building’s operation and maintenance documents.\u003c/p\u003e\u003cp\u003eOther information it would be helpful to keep in the building log book or if a log book is not available, with the building’s operation and maintenance documents would be the preparatory details for packaged cooling systems or for centralised cooling systems. Further information can be found in sections 2.2 and 2.3 of the CIBSE TM44, guidance (or similar equivalent guidance).  Information that would be helpful to retain includes:\u003c/p\u003e\u003cul\u003e\n  \u003cli\u003ea copy of the fully signed air conditioning inspection report of the air conditioning inspection produced by the energy assessor\u003c/li\u003e\n  \u003cli\u003ethe recommendation report and any data used to prepare an EPC for the building (where one has been produced)\u003c/li\u003e\n  \u003cli\u003ethe recommendation report produced to accompany a DEC (if one is required)\u003c/li\u003e\n  \u003cli\u003ethe reports from any other regular inspections, such as inspections for refrigerant leakage, involving the building’s air conditioning or heating systems\u003c/li\u003e\n\u003c/ul\u003e\u003cp\u003eThis information can then be provided for subsequent inspections and it may help to minimise the time needed to carry out an inspection.\u003c/p\u003e"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Applying the regulations in practice",
+      "url": "https://www.gov.uk/government/publications/air-conditioning-inspections-for-buildings/a-guide-to-air-conditioning-inspections#applying-the-regulations-in-practice",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "url": "https://www.gov.uk/government/publications/air-conditioning-inspections-for-buildings/a-guide-to-air-conditioning-inspections#applying-the-regulations-in-practice",
+        "text": "\u003ch3 id=\"where-can-i-find-information-about-the-size-of-an-air-conditioning-system\"\u003eWhere can I find information about the size of an air conditioning system?\u003c/h3\u003e\u003cp\u003eThe effective output of an individual air conditioning unit or system may be given on the rating plate attached to the unit. It may also be found in the operating and maintenance manual or on the manufacturer’s website. Alternatively, where the system is covered by a maintenance contract, the capacity should be known by the contractor and should be reported in the maintenance records they supply. Where there is more than one unit in a system, it may be necessary to aggregate the ratings shown on the rating plate of each unit.\u003c/p\u003e\u003cp\u003eThe guidelines below are an approximate indication of typical figures for installed capacity for various spaces and may help you determine whether your system is within the scope of the regulations. Cooling requirements depend on a wide range of circumstances, including the fabric, location and orientation of the building, as well as the activities and the number of people occupying the building. Older systems are also likely to have higher rated outputs for a given floor area. Where more specific figures are needed, these should be calculated taking account of the particular circumstances of the building and its use.\u003c/p\u003e\u003cp\u003eIf it is not clear whether a building reaches the threshold, the installed capacity of the system must be determined by appropriate inspection, calculation and enquiries. In other, more specialised buildings, the wide range of factors which influence system capacity means that the capacity of these systems should be determined by a suitably qualified person. If the information is not already available, the size of the system should be determined on a case-by-case basis.\u003c/p\u003e\u003cp\u003eFor larger systems, a central cooling system serving an office building of 2,000m2 is likely to be 250kW rated output. Cooling systems serving meeting rooms which may be used by large numbers of people, such as council chambers, may exceed the 250kW threshold for lower floor areas.\u003c/p\u003e\u003ctable\u003e\n  \u003cthead\u003e\n    \u003ctr\u003e\n      \u003cth scope=\"col\"\u003eActivity\u003c/th\u003e\n      \u003cth scope=\"col\"\u003eLikely area requiring 12kW of cooling\u003c/th\u003e\n    \u003c/tr\u003e\n  \u003c/thead\u003e\n  \u003ctbody\u003e\n    \u003ctr\u003e\n      \u003ctd\u003eAir conditioning general office spaces\u003cbr\u003e Assuming typical levels of electrical equipment and 8-10 m\u003csup\u003e2\u003c/sup\u003e per person\u003c/td\u003e\n      \u003ctd\u003e200 m\u003csup\u003e2\u003c/sup\u003e\n\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003eAir conditioned offices with high levels of IT electrical equipment\u003c/td\u003e\n      \u003ctd\u003e100 m\u003csup\u003e2\u003c/sup\u003e\n\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003eOffice, call centre or dealing floors with high occupation densities of 6 m\u003csup\u003e2\u003c/sup\u003e or similar and high levels of IT, communication or lighting loads may well fall within the scope at smaller areas.\u003c/td\u003e\n      \u003ctd\u003e \u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003eRetail spaces with average levels of display lighting\u003c/td\u003e\n      \u003ctd\u003e250 m\u003csup\u003e2\u003c/sup\u003e\n\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003eRetail spaces with high levels of display lighting and illuminated cabinets\u003c/td\u003e\n      \u003ctd\u003e150 m\u003csup\u003e2\u003c/sup\u003e\n\u003c/td\u003e\n    \u003c/tr\u003e\n  \u003c/tbody\u003e\n\u003c/table\u003e"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Control of air conditioning systems and the requirement for air conditioning inspections",
+      "url": "https://www.gov.uk/government/publications/air-conditioning-inspections-for-buildings/a-guide-to-air-conditioning-inspections#control-of-air-conditioning-systems-and-the-requirement-for-air-conditioning-inspections",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "url": "https://www.gov.uk/government/publications/air-conditioning-inspections-for-buildings/a-guide-to-air-conditioning-inspections#control-of-air-conditioning-systems-and-the-requirement-for-air-conditioning-inspections",
+        "text": "\u003ch3 id=\"control-of-equipment\"\u003eControl of equipment\u003c/h3\u003e\u003cp\u003eThe building owner or manager is responsible for ensuring there is an air conditioning inspection report for the central system and the building occupier is responsible for ensuring there is an air conditioning inspection report for the equipment they have installed. In this example each party controls less than 250kW and the first inspection must have happened by 4 January 2011.\u003c/p\u003e\u003cdiv class=\"call-to-action\"\u003e\n\u003cfigure class=\"image embedded\"\u003e\u003cdiv class=\"img\"\u003e\u003cimg src=\"https://assets.publishing.service.gov.uk/government/uploads/system/uploads/image_data/file/111591/Air_cond_1_960.png\" alt=\"\"\u003e\u003c/div\u003e\n\u003cfigcaption\u003e\u003cp\u003eThe central air conditioning system for the building is 150kW.\n\u003cbr\u003e\u003cbr\u003e\nTenant 1 occupies floors 1 and 2 and had additionally installed their own system of 110kW.\n\u003cbr\u003e\u003cbr\u003e\nThe landlord is the relevant person for the control of the central (150kW) system. The tenant is the relevant person for the control of the additional system (110kW) on floors 1 and 2.\u003c/p\u003e\u003c/figcaption\u003e\u003c/figure\u003e\n\u003c/div\u003e\u003ch3 id=\"multiple-small-systems-in-a-building\"\u003eMultiple small systems in a building\u003c/h3\u003e\u003cp\u003eWhere a system consists of a number of small units with an effective rated output of less than 12kW, but the total number of units within the building means that the combined cooling capacity is greater than 12kW then an air conditioning inspection is required.\u003c/p\u003e\u003cp\u003eThe example below shows an air conditioning system with a cooling capacity greater than 250kW that serves multiple separate rooms.  Although the air conditioning system serves multiple separate rooms, some with cooling capacity as low as 3kW per room, the air conditioning system is a single system under single control for the whole building with a cooling capacity greater than 250kW.  An air conditioning inspection on a system with a cooling capacity greater than 250kW should have been carried out by 4 January 2009.  A revised air conditioning inspection report would be required every 5 years from the date of the initial inspection.\u003c/p\u003e\u003cdiv class=\"call-to-action\"\u003e\n\u003cfigure class=\"image embedded\"\u003e\u003cdiv class=\"img\"\u003e\u003cimg src=\"https://assets.publishing.service.gov.uk/government/uploads/system/uploads/image_data/file/111594/Air_cond_2_960.png\" alt=\"\"\u003e\u003c/div\u003e\n\u003cfigcaption\u003e\u003cp\u003eHotel has 50 rooms. Each room has a cooling capacity of 3 kW. The System is under the control of the hotel chain. The total under single control is 270kW, 150kW in rooms and 120kW for the reception rooms and restaurants. The first inspection must have taken place by 4 January 2009.\u003c/p\u003e\u003c/figcaption\u003e\u003c/figure\u003e\n\u003c/div\u003e\u003ch3 id=\"equipment-under-single-control-in-parts-of-a-building\"\u003eEquipment under single control in parts of a building\u003c/h3\u003e\u003cp\u003eThe example below shows an air conditioning system with a cooling capacity greater than 250kW that serves three separate parts of a building that are designed for separate use.  Although the air conditioning system serves three parts of a building that are designed for separate use the air conditioning system is a single system under single control for the whole building with a cooling capacity greater than 250kW.  An air conditioning inspection on a system with a cooling greater than 250kW should have been carried out by 4 January 2009.  A revised air conditioning inspection report would be required every 5 years from the date of the initial inspection.\u003c/p\u003e\u003cdiv class=\"call-to-action\"\u003e\n\u003cfigure class=\"image embedded\"\u003e\u003cdiv class=\"img\"\u003e\u003cimg src=\"https://assets.publishing.service.gov.uk/government/uploads/system/uploads/image_data/file/111595/Air_cond_3_960.png\" alt=\"\"\u003e\u003c/div\u003e\n\u003cfigcaption\u003e\u003cp\u003eUnits 1, 2 and 3 are parts within a building. They are designed or altered to be used separately. \u003cbr\u003e\u003cbr\u003e The air conditioning system serves units 1, 2 and 3 and are controlled by the same person. \u003cbr\u003e\u003cbr\u003e Together the total capacity controlled is \u0026gt; 250kW. \u003cbr\u003e\u003cbr\u003e The first inspection must have been completed by 4 January 2009.\u003c/p\u003e\u003c/figcaption\u003e\u003c/figure\u003e\n\u003c/div\u003e\u003ch3 id=\"equipment-under-single-control-in-separate-buildings\"\u003eEquipment under single control in separate buildings\u003c/h3\u003e\u003cp\u003eWhere an individual building benefits from the refrigeration plant of an air conditioning system under single control, the building owner or manager is responsible for obtaining an air conditioning inspection report if the rating of the local cooling plant in the building is greater than 12kW.\u003c/p\u003e\u003cp\u003eThe buildings are not covered by the air conditioning plant under single control, unless the systems in these buildings are a permanent part of the air conditioning system.\u003c/p\u003e\u003cp\u003eThe example below shows an air conditioning system with a cooling capacity greater than 250kW that serves four separate buildings.  Although the air conditioning system serves four separate buildings the air conditioning system is a single system under single control with a cooling capacity greater than 250kW.  An air conditioning inspection on a system with a cooling capacity greater than 250kW should have been carried out by 4 January 2009.  A revised air conditioning inspection report would be required every 5 years from the date of the initial inspection.\u003c/p\u003e\u003cdiv class=\"call-to-action\"\u003e\n\u003cfigure class=\"image embedded\"\u003e\u003cdiv class=\"img\"\u003e\u003cimg src=\"https://assets.publishing.service.gov.uk/government/uploads/system/uploads/image_data/file/111596/Air_cond_4_960.png\" alt=\"\"\u003e\u003c/div\u003e\n\u003cfigcaption\u003e\u003cp\u003eAir conditioning systems in buildings 1-4 are part of a district cooling system and are controlled by the same person.\n\u003cbr\u003e\u003cbr\u003e\nTogether the total capacity controlled is \u0026gt; 250kW.\n\u003cbr\u003e\u003cbr\u003e\nThe first inspection must have been completed by 4 January 2009.\u003c/p\u003e\u003c/figcaption\u003e\u003c/figure\u003e\n\u003c/div\u003e\u003ch3 id=\"cooling-capacity-where-occupants-benefit-from-additional-cooling-capacity\"\u003eCooling capacity, where occupants benefit from additional cooling capacity\u003c/h3\u003e\u003cp\u003eIn this example, a building is served by a single system of more than 250kW capacity under single control with an additional air conditioning system rated at 100kW.\u003c/p\u003e\u003cp\u003eAn air conditioning inspection on a system with a cooling capacity greater than 250kW should have been carried out by 4 January 2009.  A revised air conditioning inspection report would be required every 5 years from the date of the initial inspection.\u003c/p\u003e\u003cdiv class=\"call-to-action\"\u003e\n\u003cfigure class=\"image embedded\"\u003e\u003cdiv class=\"img\"\u003e\u003cimg src=\"https://assets.publishing.service.gov.uk/government/uploads/system/uploads/image_data/file/111597/Air_cond_5_960.png\" alt=\"\"\u003e\u003c/div\u003e\n\u003cfigcaption\u003e\u003cp\u003eThe building is served by a single system under single control \u0026lt; 250kW. In addition an air conditioning system of 100kW has been installed to serve the trading floor. The total under single control is \u0026gt;250kW. The first inspection must have been completed by 4 January 2009.\n\u003cbr\u003e\u003cbr\u003e\nThe occupants on the trading floor are using machines rather than solely running the process. Any additional air conditioning capacity, therefore, benefits the occupants and is included in the air conditioning capacity to be inspected.\u003c/p\u003e\u003c/figcaption\u003e\u003c/figure\u003e\n\u003c/div\u003e"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Assessing the efficiency of an air conditioning system",
+      "url": "https://www.gov.uk/government/publications/air-conditioning-inspections-for-buildings/a-guide-to-air-conditioning-inspections#assessing-the-efficiency-of-an-air-conditioning-system",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "url": "https://www.gov.uk/government/publications/air-conditioning-inspections-for-buildings/a-guide-to-air-conditioning-inspections#assessing-the-efficiency-of-an-air-conditioning-system",
+        "text": "\u003ch3 id=\"what-is-the-scope-of-an-air-conditioning-inspection\"\u003eWhat is the scope of an air conditioning inspection?\u003c/h3\u003e\u003ch4 id=\"refrigeration\"\u003eRefrigeration\u003c/h4\u003e\u003cp\u003eRefrigeration equipment and its associated heat exchange systems are checked briefly. The inspection looks primarily for indicators of damage or lack of maintenance that would significantly reduce their efficiency from their ‘as new’ state and does not provide high levels of detail.\u003c/p\u003e\u003cp\u003eEffective heat rejection is necessary to maintain the efficiency of the refrigeration system. If outdoor heat rejection equipment is damaged, or its access to adequate flow of air is otherwise reduced by blockage due to dirt or debris, its effectiveness in rejecting heat is reduced and its temperature will be unnecessarily high. This has the effect of reducing refrigeration efficiency and reducing the cooling capacity of the system. It may cause the refrigeration equipment to turn off and on under the action of its own high temperature or pressure cut-out, often without satisfying the building cooling load.\u003c/p\u003e\u003cp\u003eSimilarly, effective indoor heat exchange is necessary to maintain the efficiency of the refrigeration system. If this heat exchange equipment is damaged, or its access to adequate airflow is otherwise reduced, its effectiveness in transferring heat to the refrigeration system is reduced and its temperature will be unnecessarily low. This consequentially reduced temperature at the indoor unit increases the temperature difference that the refrigeration system has to maintain, which has the effect of reducing the cooling capacity of the system. It may cause the refrigeration equipment to turn off and on under the action of its low temperature or pressure cut-out, often without satisfying the building cooling load.\u003c/p\u003e\u003ch4 id=\"air-moving-systems\"\u003eAir moving systems\u003c/h4\u003e\u003cp\u003eWhere installed as part of the system to provide cooling, air moving systems is an important factor in the assessment. The contribution that fans make to the total annual energy consumption of the combined cooling system is likely to be higher than that of the refrigeration plant itself, and there may be a greater potential for improvement.\u003c/p\u003e\u003cp\u003eThe effectiveness of how air is delivered can play a part in determining the overall efficiency of the air conditioning system. Where delivery systems are ineffective, a plant that is otherwise efficient may operate for longer periods than necessary. However, the reverse may also be true, in that some delivery systems may interact unfavourably with occupants or control sensors, leading to reduced operation and consequential lack of adequate cooling. Improving some systems, even those operating at good efficiency, could reduce annual energy use.\u003c/p\u003e\u003cp\u003eImportant factors to observe are the condition of; damage to; or blockage of filters and heat exchangers, and the fan type and method of control. Ventilation air delivery systems need free access to outdoor air. Where grilles, screens or pre-filters are obscured through damage or by debris, additional energy will be needed to overcome the extra resistance caused by the restriction to air flow, or the system may under-perform in other ways due to reduced air flow rates.\u003c/p\u003e\u003cp\u003eWhere systems provide cooled air, admitting air from locations where the local air temperature may be higher than ambient will add to the energy required to achieve cooling to the required temperature. Such locations might include positions near busy roads, in car parks, or where exhaust air from the building could be drawn into the air inlet.\u003c/p\u003e\u003ch4 id=\"controls\"\u003eControls\u003c/h4\u003e\u003cp\u003eSystem controls are assessed in more detail. There could be considerable scope to identify inefficiency due to inappropriate control methods and control settings and poorly located sensors.  There may be potential for improvement at low cost. Improving systems might be as simple as adjusting time switches or for cooling or heating thermostats being set correctly. The energy assessor would not reset them, but will report to the building owner or manager.\u003c/p\u003e\u003cp\u003eAn investigation of the realised effectiveness of system controls over any significant period of operation would be outside the scope of a simple inspection regime, but a series of physical observations of their layout and operation could give an indication of potential inefficiency, ineffectiveness or misuse.\u003c/p\u003e\u003cp\u003eIt might not be possible to investigate some aspects of the layout and operation of controls, particularly in more complex systems. However, enough of the important elements may be accessible for a brief examination.  The following important elements of a system’s controls should be assessed during an air conditioning inspection:\u003c/p\u003e\u003cul\u003e\n  \u003cli\u003ethe set temperatures to which the treated spaces are to be conditioned\u003c/li\u003e\n  \u003cli\u003ethe time periods during which they are to be conditioned\u003c/li\u003e\n  \u003cli\u003ethe appropriateness of the control zones, control sensors and their locations\u003c/li\u003e\n  \u003cli\u003ethe potential for cooling to be operated at the same time as heating\u003c/li\u003e\n  \u003cli\u003ethe method of refrigeration capacity control\u003c/li\u003e\n  \u003cli\u003ethe method of air flow rate control\u003c/li\u003e\n\u003c/ul\u003e\u003cp\u003eWhere systems are controlled by a building management system, it may be necessary for the building manager to arrange for the relevant information to be extracted from the building management system prior to the inspection.\u003c/p\u003e\u003ch4 id=\"documentation\"\u003eDocumentation\u003c/h4\u003e\u003cp\u003eThe quality, extent and accessibility of relevant information provided before an energy assessor inspects the system has important consequences for the effectiveness and cost of an air conditioning system inspection. Information about the air conditioning systems installed and their operation should be provided to the energy assessor in order for them to be able to carry out the most effective assessment of the system.  Incomplete or missing documentation not provided to an energy assessor could reduce the effectiveness of the assessment.  It could also increase the cost of the inspection by requiring the energy assessor to locate relevant documentation while on site.\u003c/p\u003e\u003cp\u003eThe energy assessor will ask the building owner or manager to provide a list of relevant records; for sight of the principal documents before the site visit; and for site records to be made readily available. Any available documentation must be provided prior to the inspection. This could include, for example, catalogue information and details provided during installation, commissioning and maintenance of the system.\u003c/p\u003e\u003ch4 id=\"maintenance\"\u003eMaintenance\u003c/h4\u003e\u003cp\u003eEvidence of any existing planned maintenance schedule or of other recent maintenance activities will be sought. Where documentation clearly shows that equipment and systems are already the subject of regular good practice checking and maintenance procedures, a number of aspects of the inspection and provision of advice may be reduced in scale or omitted.\u003c/p\u003e\u003ch4 id=\"advice-on-improvement-options\"\u003eAdvice on improvement options\u003c/h4\u003e\u003cp\u003ea)\tIt is likely that an assessment will conclude that the energy efficiency of the system will fall into one of three categories:\u003c/p\u003e\u003cul\u003e\n  \u003cli\u003esystems where efficiency is clearly impaired due to faults, neglect or misuse\u003c/li\u003e\n  \u003cli\u003esystems where efficiency is likely to be lower than current accepted minimum provisions due to aspects of design or use\u003c/li\u003e\n  \u003cli\u003esystems that are acceptably efficient\u003c/li\u003e\n\u003c/ul\u003e\u003cp\u003eb)\tThere are three broad levels of advice that the building owner or manager may receive:\u003c/p\u003e\u003cul\u003e\n  \u003cli\u003eadvice on the rectification of faults in the system that are impairing its efficiency as designed\u003c/li\u003e\n  \u003cli\u003eimprovement advice to bring existing systems broadly to a standard of ‘inherent’ efficiency consistent with the current minimum provisions of building regulations or standards\u003c/li\u003e\n  \u003cli\u003ebest practice improvement advice to raise standards even where systems are fully compliant with the current minimum provisions of building regulations or standards\u003c/li\u003e\n\u003c/ul\u003e\u003cp\u003eGiven the need for simplicity and consistency, the inspection will mainly provide a combination of aspects of a) and b). However, best practice advice may be provided on a generalised basis by referring to other published guidance sources.\u003c/p\u003e\u003cp\u003eA further category of advice which may also be given concerns some systems which may be older and operate with refrigerants which are being phased out, or may have their use and supply restricted under regulations relating to ozone depleting substances. In these cases, the energy assessor may give advice on possible options for future system adaptation to use other refrigerants or for complete replacement. This advice will need to be supplemented by a more detailed assessment when modifications or replacement are to be undertaken.\u003c/p\u003e\u003cp\u003eMore detailed information about the inspection process and good practice inspection and maintenance guidance can be found in the CIBSE TM44 guidance (or similar equivalent guidance).\u003c/p\u003e"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Consumer protection and enforcement",
+      "url": "https://www.gov.uk/government/publications/air-conditioning-inspections-for-buildings/a-guide-to-air-conditioning-inspections#consumer-protection-and-enforcement",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "url": "https://www.gov.uk/government/publications/air-conditioning-inspections-for-buildings/a-guide-to-air-conditioning-inspections#consumer-protection-and-enforcement",
+        "text": "\u003ch3 id=\"checking-the-authenticity-of-an-air-conditioning-inspection-report-or-an-energy-assessor\"\u003eChecking the authenticity of an air conditioning inspection report or an energy assessor\u003c/h3\u003e\u003cp\u003eAn air conditioning inspection report must be produced by an accredited energy assessor. The energy assessor must make a copy of the air conditioning inspection report available to the building owner or manager, as soon as practicable after the inspection date, but only after the air conditioning inspection report has been lodged on the register. The energy assessor may also make a copy of the air conditioning inspection report available to the accreditation scheme of which they are a member.\u003c/p\u003e\u003cp\u003eAll energy assessors must be a member of an accreditation scheme. To check that an energy assessor is a member of an accreditation scheme a search facility is available on the \u003ca rel=\"external\" href=\"https://getting-new-energy-certificate.digital.communities.gov.uk/\" class=\"govuk-link\"\u003eregister website\u003c/a\u003e. If a person does not have access to the internet, they can ask the energy assessor for the name of the accreditation scheme of which they are a member and for their membership number. This information will enable the building owner or manager to confirm with the accreditation scheme that the energy assessor is accredited and fit and proper to practice as an air conditioning energy assessor.\u003c/p\u003e\u003cp\u003eFrom 6 April 2012, it became a statutory requirement for the energy assessor to lodge all air conditioning inspection reports on the register.  To be valid, any air conditioning inspection report produced on or after this date must be lodged on the register.  When an air conditioning inspection report is lodged it will be allocated a unique report reference number. Air conditioning inspection reports produced before 6 April 2012 may have been lodged on the register on a voluntary basis. However, there is no statutory requirement for a valid air conditioning inspection report, produced before this date, to be lodged on the register retrospectively.\u003c/p\u003e\u003cp\u003eStatutory lodgement was introduced to protect the consumer and to ensure that only accredited energy assessors can undertake inspections and prepare subsequent reports. Statutory lodgement enables the building owner or manager to verify the identity of the energy assessor and for accreditation schemes to monitor the standard of the air conditioning inspection reports which have been produced. Statutory lodgement also enables lost and mislaid air conditioning inspection reports to be replaced easily at no additional cost to the building owner or manager.\u003c/p\u003e\u003cp\u003eThe building owner or manager will be able to check the validity of the air conditioning inspection report by accessing an online copy of the air conditioning inspection report. A copy of the air conditioning inspection report can be downloaded from the register website using the report reference number.\u003c/p\u003e\u003cp\u003eAn air conditioning inspection report can also be downloaded from the register website using the building address, if the report reference number has been mislaid, unless the building owner has ‘opted out’ of making the report available in this way.\u003c/p\u003e\u003ch4 id=\"complaints\"\u003eComplaints\u003c/h4\u003e\u003cp\u003eComplaints about the availability or quality of an air conditioning inspection report or about an energy assessor who produced the air conditioning inspection report should be directed to the following:\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eFailure to secure an air conditioning inspection report\u003c/strong\u003e: for complaints regarding the availability of an air conditioning inspection report, you should contact the building occupier or an authorised officer of the Local Weights and Measures Authority (usually a Trading Standards Officer). Trading Standards have the power to act on your complaint.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eQuality or accuracy of the air conditioning inspection report and the recommendations\u003c/strong\u003e: for complaints regarding the quality or accuracy of the air conditioning inspection report, in the first instance, you should contact the energy assessor who produced the air conditioning inspection report. If the assessor is no longer practising, or you are not satisfied with the response you have received, you should contact the accreditation scheme of the energy assessor who produced the air conditioning inspection report. Contact details of both the energy assessor and accreditation scheme can be found on the air conditioning inspection report.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eComplaints regarding an energy assessor or any aspects of the assessment process\u003c/strong\u003e: for complaints regarding the energy assessor or the assessment process you should contact, in the first instance, the energy assessor who produced the air conditioning inspection report. If the energy assessor is no longer practising, or you are not satisfied with the response you have received, you should contact the accreditation scheme of the energy assessor who produced the air conditioning inspection report. Contact details of both the energy assessor and accreditation scheme can be found on the air conditioning inspection report.\u003c/p\u003e\u003cp\u003eThe accreditation scheme must investigate the complaint and where necessary, provide the appropriate redress. Where it is found that the information on the air conditioning inspection report is wrong, a new air conditioning inspection report must be provided and the inaccurate air conditioning inspection report cancelled on the register. This procedure should be followed at no cost to the complainant. If a complaint cannot be resolved satisfactorily, the accreditation scheme will refer the matter to an independent third party for adjudication.\u003c/p\u003e\u003cp\u003eIf the building owner or manager suspects that the air conditioning inspection report has been produced fraudulently, then the matter should be referred to the police.\u003c/p\u003e\u003ch3 id=\"penalties-for-not-having-an-air-conditioning-inspection-report\"\u003ePenalties for not having an air conditioning inspection report\u003c/h3\u003e\u003cp\u003eLocal Weights and Measures Authorities (usually Trading Standards Officers) are responsible for enforcing the requirements relating to air conditioning inspection reports. Failure to commission, keep, or provide an air conditioning inspection report when required by the regulations means that a penalty charge notice may be issued to those in breach of the requirements. Trading Standards Officers may act on complaints or undertake investigations. They may request that a copy of the air conditioning inspection report is provided to them. If requested, the building owner or manager must provide this information within seven days of the request being made or be liable to a penalty charge notice for failing to do so. A copy of an air conditioning inspection report can be requested by a Trading Standards Officer at any time up to six months after the last day for compliance with the obligation to make it available.\u003c/p\u003e\u003cp\u003eThe penalty for failing to have an air conditioning inspection report is fixed in the regulations and is currently £300.\u003c/p\u003e\u003cp\u003eOccupiers of a building, where a central air conditioning system is under the control of the building owner or manager, would not be liable for a penalty charge for any breach of the duties.\u003c/p\u003e\u003cp\u003eA further penalty can be issued for failure to provide a Trading Standards Officer with a copy of the air conditioning inspection report within seven days when requested to do so. The penalty is fixed at £200.\u003c/p\u003e\u003cp\u003eIf a penalty charge notice is issued, but that person believes it should not have been issued, they can request a review. If that person is not satisfied with the outcome of the review, they may appeal to the county court within 28 days after they are given notice confirming the penalty charge notice by the Local Weights and Measures Authority.\u003c/p\u003e\u003cp\u003eIf the building owner or manager wants to sell or let a building with an air conditioning system, which should have been inspected, then it is very likely that the legal advisors of the prospective tenant or buyer will require sight of the air conditioning inspection report during the legal processes prior to sale or let. Failure to have an air conditioning inspection report, where one is required, may have a negative impact on the transaction process.\u003c/p\u003e"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Annex A: Useful information",
+      "url": "https://www.gov.uk/government/publications/air-conditioning-inspections-for-buildings/a-guide-to-air-conditioning-inspections#annex-a-useful-information",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "url": "https://www.gov.uk/government/publications/air-conditioning-inspections-for-buildings/a-guide-to-air-conditioning-inspections#annex-a-useful-information",
+        "text": "\u003ch3 id=\"alphabetical-list-of-government-approved-energy-assessor-accreditation-schemes\"\u003eAlphabetical list of government approved energy assessor accreditation schemes\u003c/h3\u003e\u003cp\u003ePlease note that only the accreditation schemes listed below will have accredited energy assessors who are approved to carry out air conditioning inspections.\u003c/p\u003e\u003cul\u003e\n  \u003cli\u003e\n    \u003cp\u003eChartered Institution of Building Services Engineers (CIBSE)\t\u003ca rel=\"external\" href=\"https://www.cibse.org/\" class=\"govuk-link\"\u003ewww.cibse.org\u003c/a\u003e\u003c/p\u003e\n  \u003c/li\u003e\n  \u003cli\u003e\n    \u003cp\u003eElmhurst Energy\t\u003ca rel=\"external\" href=\"https://www.elmhurstenergy.co.uk/\" class=\"govuk-link\"\u003ewww.elmhurstenergy.co.uk\u003c/a\u003e\u003c/p\u003e\n  \u003c/li\u003e\n  \u003cli\u003e\n    \u003cp\u003eQuidos\t\u003ca rel=\"external\" href=\"https://www.quidos.co.uk/\" class=\"govuk-link\"\u003ewww.quidos.co.uk\u003c/a\u003e\u003c/p\u003e\n  \u003c/li\u003e\n  \u003cli\u003e\n    \u003cp\u003eSterling Accreditation\t\u003ca rel=\"external\" href=\"http://www.sterlingaccreditation.com/\" class=\"govuk-link\"\u003ewww.sterlingaccreditation.com\u003c/a\u003e\u003c/p\u003e\n  \u003c/li\u003e\n  \u003cli\u003e\n    \u003cp\u003eStroma\t\u003ca rel=\"external\" href=\"http://www.stroma.com/\" class=\"govuk-link\"\u003ewww.stroma.com\u003c/a\u003e\u003c/p\u003e\n  \u003c/li\u003e\n\u003c/ul\u003e\u003cdiv class=\"footnotes\" role=\"doc-endnotes\"\u003e\n  \u003col\u003e\n    \u003cli id=\"fn:1\" role=\"doc-endnote\"\u003e\n      \u003cp\u003eAll references to accreditation scheme in this guidance means a government approved air conditioning accreditation scheme. \u003ca href=\"#fnref:1\" class=\"govuk-link\" role=\"doc-backlink\" aria-label=\"go to where this is referenced\"\u003e↩\u003c/a\u003e\u003c/p\u003e\n    \u003c/li\u003e\n  \u003c/ol\u003e\n\u003c/div\u003e"
+      }
+    }
+  ]
+}
+</script><script type="application/ld+json">
+  {
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "item": {
+        "name": "Home",
+        "@id": "https://www.gov.uk/"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "item": {
+        "name": "Housing, local and community",
+        "@id": "https://www.gov.uk/housing-local-and-community"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "item": {
+        "name": "Planning and building",
+        "@id": "https://www.gov.uk/housing-local-and-community/planning-and-building"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "item": {
+        "name": "Energy efficiency in buildings",
+        "@id": "https://www.gov.uk/housing-local-and-community/energy-efficiency-in-buildings"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 5,
+      "item": {
+        "name": "Air-conditioning inspections for buildings",
+        "@id": "https://www.gov.uk/government/publications/air-conditioning-inspections-for-buildings"
+      }
+    }
+  ]
+}
+</script>
+</body>
+</html>
